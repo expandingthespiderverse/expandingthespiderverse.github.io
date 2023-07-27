@@ -10,7 +10,8 @@ div#notebook {
 
 body,
 div.body {
-    font-family: sans-serif;
+    font-family: 'Montserrat';
+    font-cdn: <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     font-size: 13pt;
     color: #f8f8f0;
     background-color: #1e1e1e;
