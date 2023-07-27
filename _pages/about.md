@@ -1,11 +1,3 @@
-<link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
-
-<script type="module" data-shoelace="/path/to/shoelace/dist">
-  import '@shoelace-style/shoelace/dist/components/button/button.js';
-
-  // <sl-button> is ready to use!
-</script>
-
 ---
 layout: about
 title: about
