@@ -28,7 +28,7 @@ Data Advocacy for All has been designed for students across the disciplines with
 
 Data Advocacy for All is a CU Next Award Grant project that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 
-# LEARN MORE
+LEARN MORE
 
 <sl-button-group label="Alignment">
   <sl-button>ABOUT THE PROJECT AND CURRICULUM</sl-button>
@@ -36,3 +36,15 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 </sl-button-group>
 
 <sl-button>Button</sl-button>
+
+# What is Data Advocacy? 
+
+## DEFINITION
+
+## PERSPECTIVE
+
+| Left aligned | Center aligned | Right aligned |
+| :----------- | :------------: | ------------: |
+| Left 1       | center 1       | right 1       |
+| Left 2       | center 2       | right 2       |
+| Left 3       | center 3       | right 3       |
