@@ -2,11 +2,15 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Montserrat)
+
+// Font Variables
+  $Montserrat: 'Montserrat';
+
 // Typography
 
-p {
-  font-family: Montserrat;
-}
+p,
 h1,
 h2,
 h3,
