@@ -1,6 +1,7 @@
 /* From https://github.com/dunovank/jupyter-themes/blob/master/jupyterthemes/styles/compiled/grade3.css */
 div#notebook {
-    font-family: sans-serif;
+    font-family: 'Montserrat';
+    font-cdn: <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     font-size: 13pt;
     line-height: 170%;
     color: #303030;
