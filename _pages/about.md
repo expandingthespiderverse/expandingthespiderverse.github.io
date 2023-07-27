@@ -1,6 +1,6 @@
 ---
-layout: home
-title: home
+layout: about
+title: about
 permalink: /
 subtitle: Primary objective of the project (1 sentence or less… 10-25 words… “An open access modular curriculum for teaching data advocacy in higher educational settings.  
 
