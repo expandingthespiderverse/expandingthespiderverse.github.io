@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ongoing Speaker Series
+Ongoing "Data Advocacy for All" Speaker Series for CU Boulder and CU Denver
