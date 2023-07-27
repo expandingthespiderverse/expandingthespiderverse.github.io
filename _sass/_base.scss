@@ -4,9 +4,11 @@
 
 // Typography
 
-.p { 
-  font-family: Montserrat;
+.body {font-family: 'Montserrat';font-size: 22px;
+  font-cdn: <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>;
 }
+
+p,
 h1,
 h2,
 h3,
