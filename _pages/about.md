@@ -31,11 +31,9 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 LEARN MORE
 
 <sl-button-group label="Alignment">
-  <sl-button>ABOUT THE PROJECT AND CURRICULUM</sl-button>
-  <sl-button>ABOUT THE TEAM BEHIND THE PROJECT</sl-button>
+  <sl-button>About the Project and the Curriculum</sl-button>
+  <sl-button>About the Team Behind the Project</sl-button>
 </sl-button-group>
-
-<sl-button>Button</sl-button>
 
 # What is Data Advocacy? 
 
@@ -43,7 +41,6 @@ LEARN MORE
 
 ## PERSPECTIVE
 
-| 1 | 2 | 3 |
-**| Rhetorical Data Studies | Data Feminism | Critical Data Studies |**
+| Rhetorical Data Studies | Data Feminism | Critical Data Studies |
 | :----------- | :------------: | ------------: |
 | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       |
