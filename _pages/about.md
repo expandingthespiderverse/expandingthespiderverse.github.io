@@ -19,7 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/components/button-group/button-group.js"></script>
+<link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
+
+<script type="module" data-shoelace="/path/to/shoelace/dist">
+  import '@shoelace-style/shoelace/dist/components/button/button.js';
+
+  // <sl-button> is ready to use!
+</script>
 
 Data Advocacy for All is an eight-module curriculum that leverages minimal computing and open-source tools to enhance student abilities to inquire with data, communicate with data, and deploy data for social advocacy.  
 
