@@ -1,3 +1,11 @@
+<link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
+
+<script type="module" data-shoelace="/path/to/shoelace/dist">
+  import '@shoelace-style/shoelace/dist/components/button/button.js';
+
+  // <sl-button> is ready to use!
+</script>
+
 ---
 layout: about
 title: about
@@ -19,14 +27,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<link rel="stylesheet" href="/path/to/shoelace/dist/themes/light.css" />
-
-<script type="module" data-shoelace="/path/to/shoelace/dist">
-  import '@shoelace-style/shoelace/dist/components/button/button.js';
-
-  // <sl-button> is ready to use!
-</script>
-
 Data Advocacy for All is an eight-module curriculum that leverages minimal computing and open-source tools to enhance student abilities to inquire with data, communicate with data, and deploy data for social advocacy.  
 
 Data Advocacy for All has been designed for students across the disciplines with no prior data science or computing experience. This college-level curriculum includes pedagogical modules, ready-made data sets, tutorials, links to open-source tools, and flexible curricular resources. 
@@ -39,3 +39,5 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
   <sl-button>ABOUT THE PROJECT AND CURRICULUM</sl-button>
   <sl-button>ABOUT THE TEAM BEHIND THE PROJECT</sl-button>
 </sl-button-group>
+
+<sl-button>Button</sl-button>
