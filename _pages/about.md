@@ -28,17 +28,25 @@ Data Advocacy for All has been designed for students across the disciplines with
 
 Data Advocacy for All is a CU Next Award Grant project that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 
-LEARN MORE
 <center>
+  LEARN MORE
 <sl-button-group label="Alignment">
   <sl-button>About the Project and the Curriculum</sl-button>
   <sl-button>About the Team Behind the Project</sl-button>
 </sl-button-group>
 </center>
 
-# What is Data Advocacy? 
+<br><br>
+
+# What is Data Advocacy?
+
+<br>
 
 ## DEFINITION
+
+“Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” (Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)
+
+<br>
 
 ## PERSPECTIVE
 
