@@ -6,7 +6,7 @@ subtitle: Primary objective of the project (1 sentence or less… 10-25 words…
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DA4ALogo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
