@@ -29,14 +29,14 @@ Data Advocacy for All has been designed for students across the disciplines with
 Data Advocacy for All is a CU Next Award Grant project that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 
 <center>
-  LEARN MORE
+  LEARN MORE<br>
 <sl-button-group label="Alignment">
   <sl-button>About the Project and the Curriculum</sl-button>
   <sl-button>About the Team Behind the Project</sl-button>
 </sl-button-group>
 </center>
 
-<br><br>
+<br>
 
 # What is Data Advocacy?
 
@@ -53,3 +53,5 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 | Rhetorical Data Studies | Data Feminism | Critical Data Studies |
 | :----------- | :------------: | ------------: |
 | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       |
+
+<br>
