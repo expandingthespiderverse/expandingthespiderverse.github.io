@@ -42,13 +42,13 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 
 <br>
 
-## DEFINITION
+## Definition
 
 “Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
 
 <br>
 
-## PERSPECTIVE
+## Perspective
 
 | Rhetorical Data Studies | Data Feminism |
 | :----------- | :------------: |
@@ -63,4 +63,6 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
   <sl-button href="https://da4asandbox.github.io/modules/historicizing-data/">Explore the Curricular Modules</sl-button>
 </sl-button-group>
 
+<br>
+<br>
 
