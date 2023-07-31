@@ -66,5 +66,3 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 
 <br>
 <br>
-
-# Data Advocacy for All Public Events
