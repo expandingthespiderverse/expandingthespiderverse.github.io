@@ -50,9 +50,9 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 
 ## PERSPECTIVE
 
-| Rhetorical Data Studies | Data Feminism | Critical Data Studies |
-| :----------- | :------------: | ------------: |
-| Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       |
+| Rhetorical Data Studies | Data Feminism |
+| :----------- | :------------: |
+| Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       |
 
 <br>
 
