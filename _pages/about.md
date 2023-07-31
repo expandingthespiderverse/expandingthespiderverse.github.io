@@ -31,8 +31,8 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 <center>
   LEARN MORE<br><br>
 <sl-button-group label="Alignment">
-  <sl-button>ABOUT THE PROJECT AND CURRICULUM</sl-button>
-  <sl-button>ABOUT THE TEAM BEHIND THE PROJECT</sl-button>
+  <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">ABOUT THE PROJECT AND CURRICULUM</sl-button>
+  <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">ABOUT THE TEAM BEHIND THE PROJECT</sl-button>
 </sl-button-group>
 </center>
 
@@ -44,7 +44,7 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 
 ## DEFINITION
 
-“Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” (Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)
+“Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
 
 <br>
 
@@ -55,3 +55,12 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.       |
 
 <br>
+
+## The Data Advocacy for All Curriculum
+
+<sl-button-group label="Alignment">
+  <sl-button href="https://da4asandbox.github.io/curricularsite/blog/">HOW TO BEST GET STARTED</sl-button>
+  <sl-button href="https://da4asandbox.github.io/modules/historicizing-data/">EXPLORE THE CURRICULAR MODULES</sl-button>
+</sl-button-group>
+
+
