@@ -31,8 +31,8 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 <center>
   LEARN MORE<br><br>
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">ABOUT THE PROJECT AND CURRICULUM</sl-button>
-  <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">ABOUT THE TEAM BEHIND THE PROJECT</sl-button>
+  <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">About the Project and Curriculum</sl-button>
+  <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">About the Team Behind the Project</sl-button>
 </sl-button-group>
 </center>
 
@@ -59,8 +59,8 @@ Data Advocacy for All is a CU Next Award Grant project that has been realized by
 ## The Data Advocacy for All Curriculum
 
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/blog/">HOW TO BEST GET STARTED</sl-button>
-  <sl-button href="https://da4asandbox.github.io/modules/historicizing-data/">EXPLORE THE CURRICULAR MODULES</sl-button>
+  <sl-button href="https://da4asandbox.github.io/curricularsite/blog/">How to Best Get Started</sl-button>
+  <sl-button href="https://da4asandbox.github.io/modules/historicizing-data/">Explore the Curricular Modules</sl-button>
 </sl-button-group>
 
 
