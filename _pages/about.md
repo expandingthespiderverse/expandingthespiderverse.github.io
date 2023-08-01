@@ -31,7 +31,7 @@ Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-p
 <br>
 <center><h2>
 LEARN MORE
-</h2><br><br>
+</h2>
 <sl-button-group label="Alignment">
   <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">About the Project and Curriculum</sl-button>
   <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">About the Team Behind the Project</sl-button>
@@ -48,8 +48,6 @@ LEARN MORE
 
 “Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
 
-<br>
-
 ## Perspective
 
 <br>
@@ -60,7 +58,7 @@ LEARN MORE
 
 <br>
 
-# The Data Advocacy for All Curriculum
+# Curriculum
 
 <br>
 
