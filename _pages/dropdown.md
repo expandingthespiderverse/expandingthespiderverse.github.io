@@ -6,7 +6,7 @@ nav_order: 3
 dropdown: true
 children: 
     - title: Introduction
-      permalink: https://www.da4asandbox.github.io/modules/historicizing-data/
+      permalink: 
     - title: divider
     - title: 1: Defining Data
       permalink: https://www.da4asandbox.github.io/modules/historicizing-data/
