@@ -55,9 +55,14 @@ LEARN MORE
   </div>
 
 <div class="card hoverable">
-<H3>Data Feminism</H3>
-    Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.
+  <div class="row no-gutters">
+    <div class="card-body">
+      <h3 class="card title">Data Feminism
+        <p class="card-text">Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.</p>
+      </h3>
+    </div>
   </div>
+</div>
 
 <br>
 
