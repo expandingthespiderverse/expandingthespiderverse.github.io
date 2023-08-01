@@ -1,13 +1,34 @@
 ---
 layout: page
-title: submenus
+title: Modules
 nav: false
-nav_order: 6
+nav_order: 3
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Introduction
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: 1: Defining Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 2: Historicizing Data 
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 3: Assembling Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 4: Analyzing Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 5: Visualizing Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 6: Mapping Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 7: Persuading with Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
+    - title: divider
+    - title: 8: Archiving and Publishing Data
+      permalink: https://da4asandbox.github.io/modules/historicizing-data/
 ---
