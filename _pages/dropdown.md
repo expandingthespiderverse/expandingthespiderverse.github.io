@@ -7,7 +7,6 @@ dropdown: true
 children: 
     - title: Introduction
       permalink: https://da4asandbox.github.io/modules/historicizing-data/
-    - title: divider
     - title: 1: Defining Data
       permalink: https://da4asandbox.github.io/modules/historicizing-data/
     - title: divider
