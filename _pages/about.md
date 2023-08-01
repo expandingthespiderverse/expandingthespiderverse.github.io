@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Primary objective of the project (1 sentence or less… 10-25 words… “An open access modular curriculum for teaching data advocacy in higher educational settings.  
+subtitle: An open access modular curriculum for teaching data advocacy in higher educational settings.
 
 profile:
   align: right
@@ -26,10 +26,12 @@ Data Advocacy for All is an eight-module curriculum that leverages minimal compu
 
 Data Advocacy for All has been designed for students across the disciplines with no prior data science or computing experience. This college-level curriculum includes pedagogical modules, ready-made data sets, tutorials, links to open-source tools, and flexible curricular resources. 
 
-Data Advocacy for All is a CU Next Award Grant project that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
+Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award">CU Next Award Grant project<a/> that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 
+<br>
 <center>
-  LEARN MORE<br><br>
+# LEARN MORE
+<br><br>
 <sl-button-group label="Alignment">
   <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">About the Project and Curriculum</sl-button>
   <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">About the Team Behind the Project</sl-button>
