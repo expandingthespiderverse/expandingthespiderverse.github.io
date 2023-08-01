@@ -8,7 +8,9 @@ body {
   font-family: $base-font;
 }
 
-p,
+p {
+  font-size: 18px; 
+}
 
 h1 {
   color: #bf0a30;
