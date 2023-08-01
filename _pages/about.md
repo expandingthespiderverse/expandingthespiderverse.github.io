@@ -42,10 +42,12 @@ LEARN MORE
 # What is Data Advocacy?
 
 ## Definition
-
+<br>
 “Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
-
+<br>
 ## Perspective
+<br>
+Throughout this project, data advocacy is framed through:
 
 <div class="card">
   <div class="card-body">
@@ -54,7 +56,6 @@ LEARN MORE
     </h4>
   </div>
 </div>
-<br>
 <div class="card hoverable">
   <div class="card-body">
     <h4 class="card-title">Data Feminism
