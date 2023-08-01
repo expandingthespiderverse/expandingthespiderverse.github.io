@@ -5,7 +5,7 @@ permalink: /
 subtitle: An open access modular curriculum for teaching data advocacy in higher educational settings.
 
 profile:
-  align: right
+  align: left
   image: DA4ALogo.png
   image_circular: false # crops the image to make it circular
   address: >
@@ -28,7 +28,6 @@ Data Advocacy for All has been designed for students across the disciplines with
 
 Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award">CU Next Award Grant project<a/> that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 
-<br>
 <center><h2>
 LEARN MORE
 </h2>
@@ -50,11 +49,22 @@ LEARN MORE
 
 ## Perspective
 
-<br>
-
 | Rhetorical Data Studies | Data Feminism |
 | :---        |    ---: |
 | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa. | Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa. |
+
+<div class="row">
+  <div class="column">
+    <H3>Rhetorical Data Studies</H3>
+    Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.
+  </div>
+  <div class="column"></div>
+  <H3>Data Feminism</H3>
+    Short description (25-50 words). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra, sem id tincidunt aliquet, tortor odio blandit dui, eu consectetur dui ipsum in libero. Nullam at mattis ex. Morbi cursus nulla eget lobortis feugiat. Maecenas sem odio, rutrum ut massa.
+</div>
+
+.card
+Rhetorical Data Studies
 
 <br>
 
