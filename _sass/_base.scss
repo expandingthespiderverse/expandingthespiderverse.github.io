@@ -44,7 +44,10 @@ table {
   }
 }
 
-a,
+a {
+  color: #002868;
+}
+
 table.table a {
   color: var(--global-theme-color);
 
