@@ -7,11 +7,12 @@ nav: true
 nav_rank: 8
 ---
 
-{% assign groups = site._members | map: "group" | uniq %}
+{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
 
-{% assign members = site._members | where: "group", group %}
+{% assign members = site.members | sort: "last_name" | where: "group", group %}
+
 {% for member in members %}
 
 <p>
@@ -56,6 +57,6 @@ nav_rank: 8
     </div>
 </p>
 
-    {% endfor %}
+{% endfor %}
     
 {% endfor %}
