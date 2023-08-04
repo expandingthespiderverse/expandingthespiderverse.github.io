@@ -561,6 +561,15 @@ footer.sticky-bottom {
   }
 }
 
+// Team
+
+.team {
+  .card-body {
+    a:first-of-type {
+      text-decoration: none;
+    }
+  }
+}
 
 // Publications
 
