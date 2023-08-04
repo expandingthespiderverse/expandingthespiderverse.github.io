@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Doctoral Researchers
-group_rank: 3
+group: Doctoral
+group_rank: 1
 team_frontpage: true
 
 title: MSc David Spielmann
