@@ -7,15 +7,23 @@ nav: true
 nav_rank: 8
 ---
 
-{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
+
+{% comment %} 
+{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %} 
+{% endcomment %}
+
+<!--this Liquid command looks in the Collection "members" that was created through a directory named members + adding it as a collection in _config.yml file. It sorts it by the variable you specify in teh frontmatter for each member markdown file - ex. group_rank, lastname, etc. The map command then puts them into a few buckets based on  "group" - defined in the frontmatter of each of the individual member pages - ex. "Principal Investigators". It goes through and only looks at unique values for all pages listed in here. We can change this and/or add different categories/designations - ex. "Faculty" "Researchers" etc. or a "school" category for "University of Colorado Denver" "CU Boulder" etc.  -->
+
+{% assign groups = site.members | sort: "lastname" | map: "group" | uniq %}
 
 {% for group in groups %}
 
+
 ## {{ group }}
 
-{% assign members = site.members | sort: "last_name" | where: "group", group %}
+	{% assign members = site.members | sort: "last_name" | where: "group", group %}
+	{% for member in members %}
 
-{% for member in members %}
 
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
@@ -28,10 +36,15 @@ nav_rank: 8
                     {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
                     <h5 class="card-title">{{ member.profile.name }}</h5>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
+                    {% if member.profile.department %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.department }}</h6>{% endif %}
+                    {% if member.profile.organization %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.organization }}</h6>{% endif %}
                     <p class="card-text">
                         {{ member.teaser }}
                     </p>
                     {% if member.inline == false %}</a>{% endif %}
+                    {% if member.profile.website %}
+                        <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
+                    {% endif %}
                     {% if member.profile.email %}
                         <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
                     {% endif %}
@@ -47,18 +60,17 @@ nav_rank: 8
                     {% if member.profile.github %}
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
-                    {% if member.profile.website %}
-                        <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
-                    {% endif %}
-                    <p class="card-text">
-                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
+<!---                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small> 
                     </p>
+--->
                 </div>
             </div>
         </div>
     </div>
 </p>
 
+	{% endfor %}
+   
 {% endfor %}
-    
-{% endfor %}
+
