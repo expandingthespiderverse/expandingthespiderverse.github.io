@@ -1,4 +1,4 @@
---- --trace
+---
 layout: page
 permalink: /team
 title: Team
@@ -6,6 +6,8 @@ description: Members and close collaborators of the group are listed here
 nav: true
 nav_rank: 8
 ---
+
+--trace
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
