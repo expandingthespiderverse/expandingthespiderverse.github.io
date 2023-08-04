@@ -7,11 +7,11 @@ nav: true
 nav_rank: 8
 ---
 
-{% assign groups = _members | sort: "group_rank" | map: "group" | uniq %}
+{% assign groups = .members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
 
-    {% assign members = _members | sort: "lastname" | where: "group", group %}
+    {% assign members = .members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
