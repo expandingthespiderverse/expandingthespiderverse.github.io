@@ -7,7 +7,7 @@ team_frontpage: true
 
 title: MSc Nafise Eskandani
 description: Profile of MSc Nafise Eskandani, Doctoral Researcher at the Programming Group.
-lastname: Eskandani
+last_name: Eskandani
 publications: 'author^=*Eskandani'
 
 teaser: >
