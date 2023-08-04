@@ -1,4 +1,4 @@
----
+--- --trace
 layout: page
 permalink: /team
 title: Team
