@@ -13,7 +13,7 @@ publications: 'author^=*Eskandani'
 teaser: >
     I am a PhD student at the Technical University of Darmstadt and an Associate Scientist at ABB Corporate Research Center.
     My research interests include Cloud Native Applications, Digital Twin, Software Architecture, and Software Engineering.
-    Currently, I am working on programming models for decentralized and resilient systems.
+    Currently, I am working on programming models for decentralized and resilient systems...
 
 profile:
     name: MSc Nafise Eskandani
