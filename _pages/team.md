@@ -3,8 +3,8 @@ layout: page
 permalink: /team
 title: Team
 description: Members and close collaborators of the group.
-nav: true
-nav_rank: 7
+nav: false
+nav_rank: 0
 ---
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
