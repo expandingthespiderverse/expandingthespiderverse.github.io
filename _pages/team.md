@@ -4,6 +4,6 @@ permalink: /team
 title: Team
 description: Members and close collaborators of the group.
 nav: true
-nav_rank: 6
+nav_rank: 8
 ---
 
