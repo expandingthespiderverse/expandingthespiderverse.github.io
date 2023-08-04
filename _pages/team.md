@@ -7,10 +7,10 @@ nav: true
 nav_rank: 8
 ---
 
---trace
-
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
+
 {% for group in groups %}
+
 ## {{ group }}
 
 {% assign members = site.members | sort: "last_name" | where: "group", group %}
