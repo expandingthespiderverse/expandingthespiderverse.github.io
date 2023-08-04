@@ -7,7 +7,7 @@ team_frontpage: true
 
 title: MSc Mirko Köhler
 description: Profile of MSc Mirko Köhler, Doctoral Researcher at the Programming Group.
-lastname: Köhler
+last_name: Köhler
 publications: 'author^=*K*hler'
 
 teaser: >
