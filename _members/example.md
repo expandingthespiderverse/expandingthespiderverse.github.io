@@ -7,7 +7,7 @@ team_frontpage: true
 
 title: MSc David Spielmann
 description: Profile of MSc David Spielmann, Doctoral Researcher at the Programming Group.
-lastname: Spielmann
+last_name: Spielmann
 publications: 'author^=*Spielmann'
 
 teaser: >
