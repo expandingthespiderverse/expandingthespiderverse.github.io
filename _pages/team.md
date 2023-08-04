@@ -7,7 +7,7 @@ nav: true
 nav_rank: 8
 ---
 
-{% assign groups = site._members | sort: "group_rank" | map: "group" | uniq %}
+{% assign groups = site._members | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
 
