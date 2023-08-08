@@ -13,18 +13,18 @@ teaser: >
     <!-- description here -->
 profile:
     name: Sara Stoudt
-    position: Bucknell University
+    position: 
     department: 
     organization: 
     align: right
-    image: 
+    image: generic-icon.jpg
     website: 
     twitter: 
     email: 
     github: 
     orcid: 
     address: >
-        
+        Bucknell University
 
 ---
 
