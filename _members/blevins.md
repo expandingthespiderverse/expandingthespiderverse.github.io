@@ -23,6 +23,8 @@ profile:
     email: cameron.blevins@ucdenver.edu
     github: cblevins
     orcid: 0000-0002-5272-5770
+    address: >
+        University of Colorado Denver
 
 ---
 
