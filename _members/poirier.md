@@ -13,18 +13,18 @@ teaser: >
     <!-- description here -->
 profile:
     name: Lindsay Poirier
-    position: Smith College
+    position: 
     department: 
     organization: 
     align: right
-    image: 
+    image: generic-icon.jpg
     website: 
     twitter: 
     email: 
     github: 
     orcid: 
     address: >
-        
+        Smith College
 
 ---
 
