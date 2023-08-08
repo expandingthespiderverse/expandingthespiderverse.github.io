@@ -15,7 +15,7 @@ profile:
     name: Aditya Ranganath
     position: Data Librarian
     department: University Libraries
-    organization: University of Colorado Boulder 
+    <!-- organization: University of Colorado Boulder -->
     align: right
     image: generic-icon.jpg
     website: 
