@@ -23,6 +23,8 @@ profile:
     email: 
     github: 
     orcid: 
+    address: >
+        University of Colorado Boulder
 
 ---
 
