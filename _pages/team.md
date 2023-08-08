@@ -61,7 +61,7 @@ The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-
                     </p>
                     {% if member.inline == false %}</a>{% endif %}
                     {% if member.profile.website %}
-                        <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
+                        <br><a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
                     {% if member.profile.email %}
                         <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
