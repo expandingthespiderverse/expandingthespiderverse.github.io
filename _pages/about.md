@@ -1,80 +1,26 @@
 ---
-layout: about
-title: Home
-permalink: /
-subtitle: An open access modular curriculum for teaching data advocacy in higher educational settings.
-
-profile:
-  align: right
-  image: DA4ALogo.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p></p>
-    <p></p>
-    <p></p>
-
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+layout: page
+permalink: /about
+title: About the Project
+description:
+nav: false
+nav_rank: 8
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
-<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
+# Mission
 
-Data Advocacy for All is an eight-module curriculum that leverages minimal computing and open-source tools to enhance student abilities to inquire with data, communicate with data, and deploy data for social advocacy.
+Data Advocacy for All is a CU Next Award project that aims to extend data humanities education throughout and beyond the University of Colorado system by offering an open-access modular approach to teaching data advocacy. Whether used by nonprofits to catalyze social action, think tanks to argue for policy change, or organizations to promote legislative equity, data advocacy is an increasingly important means of communication in the era of ubiquitous data. Yet while more and more undergraduate students are being exposed to the technical aspects of data science, too few students are being taught the complex array of data skills and communication literacies needed to use data responsibly and effectively advocate for social change. Data Advocacy for All aims to address this curricular gap by teaching students how to blend minimal computing and open-source tools with rhetorical literacies to ethically translate data into effective real-world action. 
 
-Data Advocacy for All has been designed for students across the disciplines with no prior data science or computing experience. This college-level curriculum includes pedagogical modules, ready-made data sets, tutorials, links to open-source tools, and flexible curricular resources. 
+This curriculum is grounded in the methodologies of data feminism and rhetorical data studies and guided by the following data justice perspective: 
 
-Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award">CU Next Award Grant project<a/> that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
+_While coding and other technical skills are important for data literacy, students must also learn how to not only critically examine data issues in the context of existing power dynamics and social practices but also rhetorically use data to tell ethical, compelling data-driven stories and participate in ongoing conversations about pressing social matters._
+
+Such critical-rhetorical labor takes place throughout all stages of data advocacy and demands a balanced curriculum in which all stages can be sufficiently learned. Data Advocacy for All thus offers a set of eight modules to train students in the full life cycle of the data advocacy process. 
 <br><br>
-<center><h2>
-LEARN MORE
-</h2><br>
-<sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/projects/">About the Project and Curriculum</sl-button>
-  <sl-button href="https://da4asandbox.github.io/curricularsite/cv/">About the Team Behind the Project</sl-button>
-</sl-button-group>
-</center>
+# The CU Next Award
 
-<br>
+The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award) is an academic innovation program that supports pedagogical development within the University of Colorado system. The CU Next Award requires faculty from a minimum of two University of Colorado campuses to collaborate on a pedagogical project that innovates with technology in order to help “increase the efficacy and efficiency of student learning in courses and degree programs” as well as “reduce technology-related and other barriers for individual and small groups of faculty.” To fulfill this requirement, faculty from the University of Colorado Boulder and the University of Colorado Denver collaborated to design, implement, and assess the Data Advocacy for All modular curriculum over a three year span as well design this Open Access (OA) digital repository of curricular materials for instructors across the CU system and beyond. 
 
-# What is Data Advocacy?
-<br>
-## Definition
-<br>
-“Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
+[You can learn more about the CU Next grant and the other awarded projects here.](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award)
 <br><br>
-## Perspective
-<br>
-Throughout this project, data advocacy is framed through:
-
-<div class="card">
-  <div class="card-body">
-    <h4 class="card-title">Rhetorical Data Studies
-<p class="card-text"></p>
-    </h4>
-  </div>
-</div><br>
-<div class="card hoverable">
-  <div class="card-body">
-    <h4 class="card-title">Data Feminism
-<p class="card-text"></p>
-    </h4>
-  </div>
-</div>
-
-<br>
-
-# Curriculum
-
-<br>
-
-<center>
-<sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/blog/">How to Best Get Started</sl-button>
-  <sl-button href="https://da4asandbox.github.io/modules/historicizing-data/">Explore the Curricular Modules</sl-button>
-</sl-button-group></center>
-
-<br>
-<br>
+<!--# Cite This Project-->
