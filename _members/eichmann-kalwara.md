@@ -15,7 +15,7 @@ profile:
     name: Nickoal Eichmann-Kalwara
     position: Associate Professor • Digital Scholarship Librarian
     department: Center for Research Data & Digital Scholarship (CRDDS)
-    organization: University of Colorado Boulder 
+    <!-- organization: University of Colorado Boulder -->
     align: right
     image: generic-icon.jpg
     website: 
