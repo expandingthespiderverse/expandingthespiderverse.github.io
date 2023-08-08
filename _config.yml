@@ -418,7 +418,6 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - grants
   - education
   - publications
   - projects
