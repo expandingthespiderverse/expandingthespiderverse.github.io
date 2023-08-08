@@ -52,14 +52,14 @@ Throughout this project, data advocacy is framed through:
 <div class="card">
   <div class="card-body">
     <h4 class="card-title">Rhetorical Data Studies
-<p class="card-text"> 
+<p class="card-text">-
     </h4>
   </div>
 </div><br>
 <div class="card hoverable">
   <div class="card-body">
     <h4 class="card-title">Data Feminism
-<p class="card-text"> 
+<p class="card-text">-
     </h4>
   </div>
 </div>
