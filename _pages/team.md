@@ -26,7 +26,7 @@ The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-
 <!--# Cite This Project-->
 
 # The Data Advocacy for All Team
-<br>
+
 {% comment %} 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %} 
 {% endcomment %}
