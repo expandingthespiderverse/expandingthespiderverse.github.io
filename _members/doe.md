@@ -3,7 +3,7 @@ layout: about
 inline: false
 group: A Different Team Category
 group_rank: 2
-team_frontpage: true
+team_frontpage: false
 
 title: Jane Doe
 description: I am an example of a team member.
