@@ -1,3 +1,4 @@
+<!--
 ---
 layout: about
 inline: false
@@ -26,3 +27,4 @@ profile:
 ---
 
 I am an example team member page.
+-->
