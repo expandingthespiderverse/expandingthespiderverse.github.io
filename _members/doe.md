@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: A Different Team Category
-group_rank: 2
+group: 
+group_rank: 0
 team_frontpage: false
 
 title: Jane Doe
