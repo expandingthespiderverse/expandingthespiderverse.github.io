@@ -26,6 +26,8 @@ profile:
 
 ---
 
-Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Department of Communication and the Program of Writing and Rhetoric here at the University of Colorado Boulder. Her research is invested in visual rhetoric, circulation studies, research methodologies, and the digital humanities. She is particularly interested in how images circulate, transform, and contribute to collective life and is currently developing digital research methods and data visualization techniques to support such research.
+## Laurie Gries
+
+"Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Department of Communication and the Program of Writing and Rhetoric here at the University of Colorado Boulder. Her research is invested in visual rhetoric, circulation studies, research methodologies, and the digital humanities. She is particularly interested in how images circulate, transform, and contribute to collective life and is currently developing digital research methods and data visualization techniques to support such research."
 
 Description borrowed from [the University of Colorado Boulder](https://www.colorado.edu/cmci/people/communication/laurie-gries) . Visit there to learn more information about Laurie.
