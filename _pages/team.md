@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team
+permalink: /about
 title: About
 description: Learn More About the Data Advocacy for All Project and the Team Behind It
 nav: true
@@ -13,20 +13,20 @@ Data Advocacy for All is a CU Next Award project that aims to extend data humani
 
 This curriculum is grounded in the methodologies of data feminism and rhetorical data studies and guided by the following data justice perspective: 
 
-While coding and other technical skills are important for data literacy, students must also learn how to not only critically examine data issues in the context of existing power dynamics and social practices but also rhetorically use data to tell ethical, compelling data-driven stories and participate in ongoing conversations about pressing social matters. 
+_While coding and other technical skills are important for data literacy, students must also learn how to not only critically examine data issues in the context of existing power dynamics and social practices but also rhetorically use data to tell ethical, compelling data-driven stories and participate in ongoing conversations about pressing social matters._
 
 Such critical-rhetorical labor takes place throughout all stages of data advocacy and demands a balanced curriculum in which all stages can be sufficiently learned. Data Advocacy for All thus offers a set of eight modules to train students in the full life cycle of the data advocacy process. 
-<br>
+<br><br>
 # The CU Next Award
 
 The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award) is an academic innovation program that supports pedagogical development within the University of Colorado system. The CU Next Award requires faculty from a minimum of two University of Colorado campuses to collaborate on a pedagogical project that innovates with technology in order to help “increase the efficacy and efficiency of student learning in courses and degree programs” as well as “reduce technology-related and other barriers for individual and small groups of faculty.” To fulfill this requirement, faculty from the University of Colorado Boulder and the University of Colorado Denver collaborated to design, implement, and assess the Data Advocacy for All modular curriculum over a three year span as well design this Open Access (OA) digital repository of curricular materials for instructors across the CU system and beyond. 
 
 [You can learn more about the CU Next grant and the other awarded projects here.](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award)
-<br>
+<br><br>
 <!--# Cite This Project-->
 
 # The Data Advocacy for All Team
-
+<br>
 {% comment %} 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %} 
 {% endcomment %}
