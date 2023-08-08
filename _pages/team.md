@@ -52,7 +52,7 @@ The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                     {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
-                    <h5 class="card-title">{{ member.profile.name }}</h5>
+                    <h5 class="card-title">{{ member.profile.name }}</h5><br>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
                     {% if member.profile.department %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.department }}</h6>{% endif %}
                     {% if member.profile.organization %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.organization }}</h6>{% endif %}
