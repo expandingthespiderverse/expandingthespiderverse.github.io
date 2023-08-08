@@ -15,7 +15,7 @@ profile:
     name: Cameron Blevins
     position: Associate Professor, Clinical Teaching Track
     department: History Department 
-    organization: University of Colorado Denver 
+    <!-- organization: University of Colorado Denver -->
     align: right
     image: blevins-profile.jpg
     website: https://someexamplesite.org
