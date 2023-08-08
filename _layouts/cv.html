@@ -11,7 +11,7 @@ layout: default
              {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
           </header>
 
-          <h4>Table of contents</h4>
+          <h4>Table of Contents</h4>
           <ul class="timeline">
           {% for entry in site.data.cv %}
             <li><a href="#{{ entry.title }}"><span class="badge-toc">{{ entry.title }}</span></a></li>
@@ -128,8 +128,6 @@ layout: default
               {% include resume/education.html %}
             {% when "work" %}
               {% include resume/work.html %}
-           {% when "grants" %}
-              {% include resume/grants.html %}
             {% when "volunteer" %}
               {% include resume/volunteer.html %}
             {% when "projects" %}
