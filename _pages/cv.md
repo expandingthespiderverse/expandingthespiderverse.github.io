@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae - Data Advocacy for All
+title: Curriculum Vitae Data Advocacy for All
 nav: false
 nav_order: 
 cv_pdf: 
