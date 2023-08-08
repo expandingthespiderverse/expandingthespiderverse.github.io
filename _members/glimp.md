@@ -15,7 +15,7 @@ profile:
     name: David Glimp
     position: Associate Professor
     department: English Department 
-    organization: University of Colorado Boulder 
+    <!-- organization: University of Colorado Boulder -->
     align: right
     image: generic-icon.jpg
     website: 
