@@ -15,7 +15,7 @@ profile:
     name: Laurie Gries
     position: Associate Professor
     department: Communication Department 
-    organization: University of Colorado Boulder 
+    <!-- organization: University of Colorado Boulder -->
     align: right
     image: generic-icon.jpg
     website: 
