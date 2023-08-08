@@ -60,7 +60,6 @@
     - title: 
       institution: 
       year: 
---> 
 
 - title: 
   type: time_table
@@ -72,30 +71,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items: CU Next Award, $300,000, 2022-2025. 
+    - year: 
+      items: 
+        - 
+        - 
+    - year: 2029
+      items: 
+        - 
 
-- title: Conference Presentations
-  type: time_table
-  contents:
-    - year: 2023
-      items: Blevins, Cameron. Building a Data Advocacy Curriculum. https://uwaterloo.ca/digital-pedagogy-institute/sites/ca.digital-pedagogy-institute/files/uploads/files/dpi202schedulewithabstracts.pdf. Digital Pedagogy Institute 2023.
-
-- title: Project Press
+- title: Academic Interests
   type: nested_list
   contents:
-    - title: 2023
+    - title: Topic 1.
       items: 
-        - “The Two-Way Street Between Humanities and Data Science: How Cameron Blevins and a Multidisciplinary, Multicampus Team are Bringing Data Advocacy to All” Office of Research and Creative Activities,University of Colorado College of Liberal Arts and Science, https://clas.ucdenver.edu/orca/faculty-project-spotlight 
-    - title: 2022
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - “Cameron Blevins and John Tinnell’s CU Next Award Project Hopes to Bring Data Advocacy for All” Dean’s Notes, University of Colorado College of Liberal Arts and Sciences, 3 Nov. 2022, https://clas.ucdenver.edu/deans-notes/2022/11/03/cameron-blevins-and-john-tinnells-cu-next-award-project-hopes-bring-data-advocacy-all  
-        - “Project Aims to Help Students Harness Data for the Greater Good.” Colorado Arts and Sciences Magazine, 10 Oct. 2022, https://www.colorado.edu/asmagazine/2022/10/10/project-aims-help-students-harness-data-greater-good.
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-
-  <p><a href="https://coloredconventions.org/about/cv/">Inspired by the Project Curriculum Vitae (CV) format provided by the Colored Conventions Project.</a></p>
