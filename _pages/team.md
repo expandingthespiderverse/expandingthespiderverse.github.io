@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /team
-title: Team
-description: Members and close collaborators of the group are listed here
+title: About
+description: Learn More About the Data Advocacy for All Project and the Team Behind It
 nav: true
 nav_rank: 8
 ---
