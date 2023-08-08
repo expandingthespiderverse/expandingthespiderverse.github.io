@@ -79,7 +79,7 @@ The [CU Next Award](https://www.cu.edu/oaa/academic-innovation-programs/cu-next-
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
                     <p class="card-text">
-                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small> 
+                        <br><small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small> 
                     </p>
                 </div>
             </div>
