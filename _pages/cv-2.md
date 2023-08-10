@@ -19,6 +19,7 @@ Data Advocacy for All aims to extend data humanities education and invigorate DE
 
 # Conference Presentations
 
+- Pieplow, Nathan. Data Advocacy for All. [https://communitywriting.org/conference-on-community-writing/](https://communitywriting.org/conference-on-community-writing/). Conference on Community Writing, Denver, Colorado.
 - Blevins, Cameron. Building a Data Advocacy Curriculum. [https://uwaterloo.ca/digital-pedagogy-institute/sites/ca.digital-pedagogy-institute/files/uploads/files/dpi202schedulewithabstracts.pdf](https://uwaterloo.ca/digital-pedagogy-institute/sites/ca.digital-pedagogy-institute/files/uploads/files/dpi202schedulewithabstracts.pdf). Digital Pedagogy Institute 2023.
 <br><br>
 
