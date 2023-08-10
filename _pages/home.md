@@ -47,20 +47,20 @@ LEARN MORE
 <br><br>
 ## Perspective
 <br>
-Data Advocacy for All teaches data advocacy through two main approaches
+Data Advocacy for All teaches data advocacy through two main approaches:<br>
 
 <div class="card">
   <div class="card-body">
-    <h3 class="card-title">Data Feminism
+    <h4 class="card-title">Data Feminism
 <p class="card-text">Data feminism interrogates how data both propagates and resists sexism and other interlocking forces of oppression in order to create “more just, equitable, and livable futures” (D’Ignazio and Klein, 2020, n.p.).</p>
-    </h3>
+    </h4>
   </div>
 </div><br>
 <div class="card hoverable">
   <div class="card-body">
-    <h3 class="card-title">Rhetorical Data Studies
+    <h4 class="card-title">Rhetorical Data Studies
 <p class="card-text">hetorical data studies (Gries, forthcoming) investigates the links between data, communication, and power in order to better understand how data-driven stories and arguments generate knowledge, garner public attention, and, among other actions, mediate socio-cultural change.</p>
-    </h3>
+    </h4>
   </div>
 </div>
 
