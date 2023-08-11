@@ -34,4 +34,4 @@ Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-p
 - “Project Aims to Help Students Harness Data for the Greater Good.” Colorado Arts and Sciences Magazine, 10 Oct. 2022, [https://www.colorado.edu/asmagazine/2022/10/10/project-aims-help-students-harness-data-greater-good](https://www.colorado.edu/asmagazine/2022/10/10/project-aims-help-students-harness-data-greater-good).
 <br><br>
 
-[Inspired by the Project Curriculum Vitae (CV) format provided by the Colored Conventions Project.](https://coloredconventions.org/about/cv/)
+<p style="text-align:right;"><a href="https://coloredconventions.org/about/cv/"><small>Inspired by the Project Curriculum Vitae (CV) format provided by the Colored Conventions Project.</small></a></p>
