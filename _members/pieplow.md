@@ -10,14 +10,14 @@ lastname: Pieplow
 publications: 'author^=*Pieplow'
 
 teaser: >
-  Biography. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium ac nibh eget egestas. Vestibulum nisl eros, rutrum ac augue eget, elementum dapibus lacus. Etiam quis bibendum quam. Morbi consequat erat vitae tempus faucibus.
+  Nathan Pieplow has taught writing and rhetoric at the University of Colorado Boulder since 2003. He specializes in teaching technical communication and first-year writing, with a particular interest in the rhetoric of data visualization.
 profile:
     name: Nathan Pieplow
     position: Associate Teaching Professor
     department: Program for Writing and Rhetoric
     <!-- organization: University of Colorado Boulder -->
     align: right
-    image: NathanPieplow.jpg
+    image: NathanPieplow-3.jpg
     website: 
     twitter: 
     email: 
