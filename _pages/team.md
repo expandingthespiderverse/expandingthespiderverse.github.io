@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /team/
-title: Our Team
+title: Data Advocacy for All Team
 description: 
 nav: false
 nav_rank: 8
 ---
 
-# The Data Advocacy for All Team
-<br>
 {% comment %} 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %} 
 {% endcomment %}
