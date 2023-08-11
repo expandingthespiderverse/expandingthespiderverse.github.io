@@ -10,11 +10,11 @@ lastname: Gries
 publications: 'author^=*Gries'
 
 teaser: >
-  Biography. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium ac nibh eget egestas. Vestibulum nisl eros, rutrum ac augue eget, elementum dapibus lacus. Etiam quis bibendum quam. Morbi consequat erat vitae tempus faucibus.
+  Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Program for Writing and Rhetoric and Department of English at the University of Colorado Boulder. She is author of Still Life with Rhetoric: A New Materialist Approach for Visual Rhetorics (2015), winner of the 2016 Advancement of Knowledge Award and the 2016 Research Impact Award from Conference on College Composition and Communication (CCCC). She is co-editor of Circulation, Writing, and Rhetoric (2018) as well as the digital book collection Doing Digital visual Studies: One Image, Multiple Methodologies.
 profile:
-    name: Laurie Gries
+    name: Laurie E. Gries
     position: Associate Professor
-    department: Communication Department 
+    department: Program for Writing and Rhetoric/English
     <!-- organization: University of Colorado Boulder -->
     align: right
     image: generic-icon.jpg
@@ -32,4 +32,4 @@ profile:
 
 "Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Department of Communication and the Program of Writing and Rhetoric here at the University of Colorado Boulder. Her research is invested in visual rhetoric, circulation studies, research methodologies, and the digital humanities. She is particularly interested in how images circulate, transform, and contribute to collective life and is currently developing digital research methods and data visualization techniques to support such research."
 
-Description borrowed from [the University of Colorado Boulder](https://www.colorado.edu/cmci/people/communication/laurie-gries) . Visit there to learn more information about Laurie.
+Description from [the University of Colorado Boulder](https://www.colorado.edu/cmci/people/communication/laurie-gries) . Visit there to learn more information about Laurie.
