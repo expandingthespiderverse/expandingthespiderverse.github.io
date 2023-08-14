@@ -10,7 +10,7 @@ lastname: Glimp
 publications: 'author^=*Glimp'
 
 teaser: >
-  Biography. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium ac nibh eget egestas. Vestibulum nisl eros, rutrum ac augue eget, elementum dapibus lacus. Etiam quis bibendum quam. Morbi consequat erat vitae tempus faucibus.
+   
 profile:
     name: David Glimp
     position: Associate Professor
