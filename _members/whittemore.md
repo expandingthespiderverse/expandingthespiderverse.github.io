@@ -7,7 +7,7 @@ group_rank: 3
 title: Lore Whittemore
 description: Profile of Lore Whittemore
 lastname: Lore
-publications: <!-- 'author^=*[lastname]' -->
+publications: 'author^=*[Whittemore]'
 
 teaser: >
     Lore Whittemore is currently a second-year student in the Media and Public Engagement masters program with the College of Media, Communication, and Information.
