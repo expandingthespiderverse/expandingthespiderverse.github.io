@@ -10,7 +10,7 @@ lastname: Gries
 publications: 'author^=*Gries'
 
 teaser: >
-  Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Program for Writing and Rhetoric and Department of English at the University of Colorado Boulder. She is author of _Still Life with Rhetoric: A New Materialist Approach for Visual Rhetorics_ (2015), winner of the 2016 Advancement of Knowledge Award and the 2016 Research Impact Award from Conference on College Composition and Communication (CCCC). She is co-editor of _Circulation, Writing, and Rhetoric_ (2018) as well as the digital book collection _Doing Digital Visual Studies: One Image, Multiple Methodologies._
+  Laurie Gries (PhD, Syracuse University) is an associate professor with a joint appointment in the Program for Writing and Rhetoric and Department of English at the University of Colorado Boulder. She is author of <i>Still Life with Rhetoric: A New Materialist Approach for Visual Rhetorics</i> (2015), winner of the 2016 Advancement of Knowledge Award and the 2016 Research Impact Award from Conference on College Composition and Communication (CCCC). She is co-editor of <i>Circulation, Writing, and Rhetoric</i> (2018) as well as the digital book collection <i>Doing Digital Visual Studies: One Image, Multiple Methodologies.</i>
 profile:
     name: Laurie E. Gries
     position: Associate Professor
