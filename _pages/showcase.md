@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /showcase/
-title: Student Showcase
+title: Showcase
 description: 
 nav: true
 nav_order: 5
