@@ -30,4 +30,4 @@ profile:
 
 ## Nathan Pieplow
 
-Nathan Pieplow has taught writing and rhetoric at the University of Colorado Boulder since 2003. He specializes in teaching technical communication and first-year writing, with a particular interest in the rhetoric of data visualization. He is the author of the two-volume Peterson Field Guide to Bird Sounds, former editor of the journal Colorado Birds, and a board member of the Bird Conservancy of the Rockies.
+Nathan Pieplow has taught writing and rhetoric at the University of Colorado Boulder since 2003. He specializes in teaching technical communication and first-year writing, with a particular interest in the rhetoric of data visualization. He is the author of the two-volume _Peterson Field Guide to Bird Sounds,_ former editor of the journal _Colorado Birds,_ and a board member of the Bird Conservancy of the Rockies.
