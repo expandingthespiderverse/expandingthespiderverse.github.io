@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Advisory Board
-group_rank: 2
+group: Research Assistant
+group_rank: 3
 
 title: Lore Whittemore
 description: Profile of Lore Whittemore
@@ -10,7 +10,7 @@ lastname: Lore
 publications: <!-- 'author^=*[lastname]' -->
 
 teaser: >
-    <!-- description here -->
+    Lore Whittemore is currently a second-year student in the Media and Public Engagement masters program with the College of Media, Communication, and Information.
 profile:
     name: Lore Whittemore
     position: Graduate Student
