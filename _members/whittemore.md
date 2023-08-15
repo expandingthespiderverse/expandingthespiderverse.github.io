@@ -18,7 +18,7 @@ profile:
     department: Media Studies Department
     <!-- organization: University of Colorado Denver -->
     align: right
-    image: Whittemore.jpg
+    image: whittemore.jpg
     website: 
     twitter: 
     email: tawh3581@colorado.edu
