@@ -10,14 +10,15 @@ lastname: Whittemore
 publications: 'author^=*Whittemore'
 
 teaser: >
-  Lore Whittemore is currently a second-year student in the Media and Public Engagement masters program with the College of Media, Communication, and Information.
+    Lore Whittemore is currently a second-year student in the Media and Public Engagement masters program with the College of Media, Communication, and Information.
+
 profile:
     name: Taylor "Lore" Whittemore
     position: Graduate Student
     department: Media Studies Department
     <!-- organization: University of Colorado Denver -->
     align: right
-    image: generic-icon.jpg
+    image: Whittemore.jpg
     website: 
     twitter: 
     email: tawh3581@colorado.edu
