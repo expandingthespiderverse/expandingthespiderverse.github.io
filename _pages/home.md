@@ -32,8 +32,8 @@ Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-p
 LEARN MORE
 </h2><br>
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/about/">About the Project and Curriculum</sl-button>
-  <sl-button href="https://da4asandbox.github.io/curricularsite/team/">About the Team Behind the Project</sl-button>
+  <sl-button href="https://da4all.github.io/about/">About the Project and Curriculum</sl-button>
+  <sl-button href="https://da4all.github.io/team/">About the Team Behind the Project</sl-button>
 </sl-button-group>
 </center>
 
@@ -72,8 +72,8 @@ Data Advocacy for All teaches data advocacy through two main approaches:<br>
 
 <center>
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4asandbox.github.io/curricularsite/getting-started/">How to Best Get Started</sl-button>
-  <sl-button href="https://da4asandbox.github.io/modules/">Explore the Curricular Modules</sl-button>
+  <sl-button href="https://da4all.github.io/getting-started/">How to Best Get Started</sl-button>
+  <sl-button href="https://da4all.github.io/modules/">Explore the Curricular Modules</sl-button>
 </sl-button-group></center>
 
 <br>
