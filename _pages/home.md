@@ -52,7 +52,7 @@ Data Advocacy for All teaches data advocacy through two main approaches:<br>
 <div class="card">
   <div class="card-body">
     <h4 class="card-title">Data Feminism
-<p class="card-text">Data feminism interrogates how data both propagates and resists sexism and other interlocking forces of oppression in order to create “more just, equitable, and livable futures” (D’Ignazio and Klein, 2020, n.p.).</p>
+<p class="card-text">Data feminism interrogates how data both propagates and resists sexism, racism, and other intersecting forces of oppression in order to create “more just, equitable, and livable futures” (D’Ignazio and Klein, 2020, n.p.).</p>
     </h4>
   </div>
 </div><br>
@@ -72,7 +72,7 @@ Data Advocacy for All teaches data advocacy through two main approaches:<br>
 
 <center>
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4all.github.io/getting-started/">How to Best Get Started</sl-button>
+  <sl-button href="https://da4all.github.io/getting-started/">Getting Started</sl-button>
   <sl-button href="https://da4all.github.io/modules/">Explore the Curricular Modules</sl-button>
 </sl-button-group></center>
 

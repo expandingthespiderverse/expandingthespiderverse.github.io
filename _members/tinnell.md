@@ -13,7 +13,7 @@ teaser: >
    
 profile:
     name: John Tinnell
-    position: Associate Professor • CLAS Director of Digital Initiatives
+    position: Associate Professor
     department: Department of English
     <!-- organization: University of Colorado Denver -->
     align: right

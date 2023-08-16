@@ -13,7 +13,7 @@ teaser: >
   Cameron teaches US history and digital humanities at the University of Colorado Denver.
 profile:
     name: Cameron Blevins
-    position: Associate Professor, Clinical Teaching Track
+    position: Associate Professor, Clinical Teaching Track • CLAS Director of Digital Initiatives
     department: History Department 
     <!-- organization: University of Colorado Denver -->
     align: right
