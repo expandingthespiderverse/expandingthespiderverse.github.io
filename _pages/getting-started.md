@@ -3,7 +3,7 @@ layout: page
 permalink: /getting-started/
 title: Getting Started
 description:
-nav: true
+nav: false
 nav_order: 2
 ---
 
