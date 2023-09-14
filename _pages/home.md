@@ -73,7 +73,7 @@ Data Advocacy for All teaches data advocacy through two main approaches:<br>
 <center>
 <sl-button-group label="Alignment">
   <sl-button href="https://da4all.github.io/getting-started/">Getting Started</sl-button>
-  <sl-button href="https://da4all.github.io/modules/">Explore the Curricular Modules</sl-button>
+  <sl-button href="https://da4all.github.io/modules-comingsoon/">Explore the Curricular Modules</sl-button>
 </sl-button-group></center>
 
 <br>
