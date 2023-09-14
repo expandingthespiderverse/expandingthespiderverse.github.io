@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /modules-comingsoon/
+permalink: /modules-comingsoon
 title: Modules
 description: 
 nav: false
