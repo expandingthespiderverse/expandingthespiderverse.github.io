@@ -15,6 +15,5 @@ The modules for the Data Advocacy for All project are currently in the process o
 <center>
 <sl-button-group label="Alignment">
   <sl-button href="https://da4all.github.io/">Return to the homepage</sl-button>
-  <sl-button href="https://da4all.github.io/modules/historicizing-data/">See a sample, in-progress module</sl-button>
 </sl-button-group>
 </center>
