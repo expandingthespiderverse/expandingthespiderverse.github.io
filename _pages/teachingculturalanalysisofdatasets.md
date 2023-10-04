@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching-cultural-analysis-of-datasets/
-title: "Teaching Cultural Analysis of Datasets" workshop by Dr. Lindsay Poirier
+title: Teaching Cultural Analysis of Datasets - workshop by Dr. Lindsay Poirier
 description: 
 nav: false
 nav_order: 7
