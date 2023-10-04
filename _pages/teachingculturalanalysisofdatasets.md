@@ -15,6 +15,6 @@ nav_order: 7
 ## Part of the Data Advocacy for All Speaking Series 
 On September 21st, 2023, Dr. Lindsay Poirier gave her talk "Teaching Cultural Analysis of Datasets" as the first workshop in the Data Advocacy for All Speaking Series.
 
-### About the Speaker
+## About the Speaker
 
 Dr. Lindsay Porier is an assistant professor of Statistical and Data Sciences at Smith College and a leading cultural anthropologist of data advocacy, governance, and infastructure. Despite academia's tendency to distance cultural and social theory from computational and quantitative methods, Dr. Porier excels in both areas and combines them together in a way that is rare among scholars.
