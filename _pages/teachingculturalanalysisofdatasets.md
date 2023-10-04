@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching-cultural-analysis-of-datasets
+permalink: /teaching-cultural-analysis-of-datasets/
 title: Teaching Cultural Analysis of Datasets Workshop by Lindsay Poirier
 description: 
 nav: false
