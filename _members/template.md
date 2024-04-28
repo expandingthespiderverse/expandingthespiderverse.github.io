@@ -12,7 +12,7 @@ profile:
     spiderverse: [Issue #]
     align: right
     profilepic: whittemore.jpg
-    spidersonapic: whittemore.jpg
+    spidersonapic: "whittemore.jpg"
     website: 
     twitter: 
     instagram: 
