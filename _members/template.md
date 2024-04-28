@@ -27,6 +27,3 @@ profile:
 
 ---
 
-## Lore Whittemore
-
-Lore Whittemore is currently a second-year student in the Media and Public Engagement masters program with the College of Media, Communication, and Information.
