@@ -56,6 +56,7 @@ nav_rank: 2
           </div>
           </div>
         </div>
+    </div>
       </div>
     </div>
   {% endfor %}
