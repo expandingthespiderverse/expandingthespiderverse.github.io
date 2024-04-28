@@ -1,3 +1,3 @@
-# Data Advocacy for All
+# Expanding the Spider-Verse
 
-Repository for project website for Data Advocacy For All.
+A website dedicated to the Expanding the Spider-Verse documentary.
