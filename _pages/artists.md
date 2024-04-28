@@ -12,8 +12,8 @@ nav_rank: 2
 {% assign members = site.members | sort: "title" %}
 
 <div id="members-list" style="margin-top: 20px;">
-  {% for members in memberss %}
-    {% assign resource = site.data.memberss.resources | where: "name", members.resource | first %}
+  {% for members in members %}
+    {% assign resource = site.data.members.resources | where: "name", members.resource | first %}
     <div class="members {% if members.inline == false %}hoverable{% endif %}" style="margin-bottom: 20px;" data-domain="{{ members.domain }}" data-subdomain="{{ members.subdomain }}">
       <div class="row no-gutters">
         <div class="team">
