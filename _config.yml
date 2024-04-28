@@ -140,7 +140,7 @@ related_blog_posts:
 # the information below.
 giscus:
   repo: lore3581/expandingthespiderverse      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: 
+  repo_id: 792954380
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
