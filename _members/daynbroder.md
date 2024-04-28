@@ -12,7 +12,7 @@ profile:
     profilepic: whittemore.jpg
     spidersonapic: whittemore.jpg
     website: https://www.daynbroder.com/
-    twitter: @dayn_does_comix
+    twitter: dayn_does_comix
     instagram: 
     tiktok: 
     tumblr: 
