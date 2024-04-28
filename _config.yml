@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Data Advocacy for All
-first_name: Data Advocacy for All
+title: Expanding the Spider-Verse
+first_name: Expanding the Spider-Verse
 middle_name:
 last_name:
 email:
@@ -12,13 +12,13 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: data advocacy, data justice, data advocacy for all  # add your own keywords or leave empty
+keywords: spider-man, spider-verse, documentary  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: https://da4asandbox.github.io/curricularsite/assets/img/DA4ALogo.png
-icon: DA4ALogo.png
+icon: 
 
-url: "https://da4all.github.io/" # the base hostname & protocol for your site
+url: "https://expandingthespiderverse.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Data Advocacy for All # blog_name will be displayed in your blog page
+blog_name: Expanding the Spider-Verse # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: —
 permalink: /blog/:year/:title/
@@ -139,8 +139,8 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: da4asandbox/curricularsite      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: lore3581/expandingthespiderverse      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
@@ -159,8 +159,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: 
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
