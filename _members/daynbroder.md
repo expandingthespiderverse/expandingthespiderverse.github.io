@@ -7,7 +7,7 @@ description: "Creator of Sun-Spider"
 
 profile: 
     spidersona: Sun-Spider
-    spiderverse: Issue #3 of Spider-Verse
+    spiderverse: "Issue #3 of Spider-Verse (2019-2020)"
     align: right
     profilepic: whittemore.jpg
     spidersonapic: whittemore.jpg
