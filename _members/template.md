@@ -12,7 +12,7 @@ teaser: >
 
 profile: 
     name: [Name]
-    spidersona: [Spidersona name]
+    spidersona: "[Spidersona name]"
     spiderverse: [Issue #]
     align: right
     profilepic: whittemore.jpg
