@@ -1,0 +1,47 @@
+---
+layout: page
+permalink: /testing/
+title: Testing
+description:
+nav: true
+nav_rank: 2
+---
+
+## Testing 1
+
+{% assign members = site.members | sort: "title" %}
+
+<div id="members-list" style="margin-top: 20px;">
+  {% for members in memberss %}
+    {% assign resource = site.data.memberss.resources | where: "name", members.resource | first %}
+    <div class="members {% if members.inline == false %}hoverable{% endif %}" style="margin-bottom: 20px;" data-domain="{{ members.domain }}" data-subdomain="{{ members.subdomain }}">
+      <div class="row no-gutters">
+        <div class="team">
+          <div class="members-body">
+            {% if members.inline == false %}<a href="{{ members.url | relative_url }}">{% endif %}
+              <h5 class="members-title"><i class="{{ resource.icon | default: 'fas fa-file' }}"></i>&nbsp;&nbsp; {{ members.title }}</h5></a>
+            <p class="members-text"><small class="test-muted">{% if members.profile.date %}<i class="fa-solid fa-calendar"></i>&nbsp; Date: {{ members.profile.date | replace: '<br />', ', ' }}{% endif %}
+              {% if members.profile.date and members.profile.author %}&nbsp;&nbsp;//&nbsp;&nbsp;{% endif %}
+              {% if members.profile.author %}<i class="fa-solid fa-user"></i>&nbsp; Author: {{ members.profile.author | replace: '<br />', ', ' }}{% endif %}</small></p>
+            {% if members.inline == false %}<a href="{{ members.url | relative_url }}">{% endif %}
+              <p class="members-text">{{ members.teaser }}</p></a>
+            {% if members.profile.source or members.profile.license %}
+              <hr class="solid">
+            {% endif %}
+            <p class="members-text">
+              {% if members.profile.source %}<small class="test-muted"><i class="fas fa-link"></i> Source: <a href="{{ members.profile.source }}">{{ members.profile.source | replace: '<br />', ', ' }}</a></small>{% endif %}
+              {% if members.profile.source and members.profile.license %}<br>{% endif %}
+              {% if members.profile.license %}<small class="test-muted"><i class="fa-solid fa-quote-left"></i>&nbsp; License: {{ members.profile.license }}</small>{% endif %}
+            </p>
+              <hr class="solid">
+            <p class="members-text">
+              <small class="test-muted domain"><i class="fa-solid fa-square"></i>&nbsp; Domain: <a href="{{ site.url }}{{ site.baseurl }}{{ members.domain | downcase | replace: ' ', '-' }}">{{ members.domain }}</a> &nbsp;&nbsp;//&nbsp;&nbsp;</small>
+              <small class="test-muted subdomain"><i class="fa-solid fa-sitemap"></i>&nbsp; Subdomain: {{ members.subdomain }} &nbsp;&nbsp;//&nbsp;&nbsp;</small>
+              <small class="test-muted resource"><i class="fa-solid fa-file"></i>&nbsp; Type of Resource: {{ members.resource }}</small><br>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
