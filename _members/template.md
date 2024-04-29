@@ -19,17 +19,17 @@ profile:
     spidersona2description: Sample description of Spidersona 2.
     spidersona3: whittemore.jpg
     spidersona3description: Sample description of Spidersona 3.
-    website: 
-    twitter: 
-    instagram: 
-    tiktok: 
-    tumblr: 
-    youtube: 
-    bluesky: 
-    kofi: 
-    caard: 
-    linkedin: 
-    email: 
+    website: website
+    twitter: twitter
+    instagram: instagram
+    tiktok: tiktok
+    tumblr: tumblr
+    youtube: youtube
+    bluesky: bluesky
+    kofi: kofi
+    caard: caard
+    linkedin: linkedin
+    email: email
 
 ---
 
