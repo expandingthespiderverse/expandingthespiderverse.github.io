@@ -13,7 +13,12 @@ description: >
 profile: 
     align: right
     profilepic: whittemore.jpg
-    spidersonapic: whittemore.jpg
+    spidersona1: whittemore.jpg
+    spidersona1description: Sample description of Spidersona 1.
+    spidersona2: whittemore.jpg
+    spidersona2description: Sample description of Spidersona 2.
+    spidersona3: whittemore.jpg
+    spidersona3description: Sample description of Spidersona 3.
     website: 
     twitter: 
     instagram: 
