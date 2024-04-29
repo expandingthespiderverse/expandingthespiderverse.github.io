@@ -7,6 +7,62 @@ nav: True
 nav_rank: 8
 ---
 
+## Testing 11
+
+{% assign members = site.members | sort: "profile.name" %}
+
+{% for member in members %}
+<p>
+    <div class="card {% if member.inline == false %}hoverable{% endif %}">
+        <div class="row no-gutters">
+            <!-- Left column for profile picture -->
+            <div class="col-sm-6 col-md-6">
+                <img src="{{ '/assets/img/' | append: member.profile.profilepic | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+            </div>
+            <!-- Right column for member info -->
+            <div class="col-sm-6 col-md-6">
+                <div class="card-body">
+                    {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
+                    <h2 class="card-title">{{ member.name }}</h2>
+                    {% if member.subtitle %}<h5 class="card-subtitle mb-2 text-muted">{{ member.subtitle }}</h5>{% endif %}
+                    {% if member.description %}
+                        <p class="card-text">{{ member.description }}</p>
+                    {% endif %}
+                    {% if member.inline == false %}</a>{% endif %}
+                    {% if member.profile.website %}
+                        <br><a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
+                    {% endif %}
+                    {% if member.profile.email %}
+                        <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
+                    {% endif %}
+                    {% if member.profile.phone %}
+                        <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>
+                    {% endif %}
+                    {% if member.profile.twitter %}
+                        <a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
+                    {% endif %}
+                    <!-- Additional images and captions -->
+                    <div class="row mt-3">
+                        <div class="col-md-4">
+                            <img src="{{ '/assets/img/' | append: member.profile.spidersona1 | relative_url }}" class="img-fluid" alt="{{ member.profile.name }}" />
+                            <p>{{ member.profile.spidersona1description }}</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="{{ '/assets/img/' | append: member.profile.spidersona2 | relative_url }}" class="img-fluid" alt="{{ member.profile.name }}" />
+                            <p>{{ member.profile.spidersona2description }}</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="{{ '/assets/img/' | append: member.profile.spidersona3 | relative_url }}" class="img-fluid" alt="{{ member.profile.name }}" />
+                            <p>{{ member.profile.spidersona3description }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</p>
+{% endfor %}
+
 ## Testing 10
 
 {% assign members = site.members | sort: "profile.name" %}
