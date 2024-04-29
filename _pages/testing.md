@@ -52,7 +52,7 @@ nav_rank: 8
 				<small class="test-muted domain"><a href="{{ member.profile.youtubeurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fab fa-youtube"></i>&nbsp;&nbsp; <strong>YouTube:</strong> {{ member.profile.tiktok }}</a></small><br>
 				{% endif %}
 				{% if member.profile.bluesky %}
-				<small class="test-muted domain"><a href="{{ member.profile.bluesky }}.bsky.social" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-brands fa-bluesky"></i>&nbsp;&nbsp; <strong>Bluesky:</strong> {{ member.profile.bluesky }}</a></small><br>
+				<small class="test-muted domain"><a href="{{ member.profile.bluesky }}.bsky.social" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-cloud"></i>&nbsp;&nbsp; <strong>Bluesky:</strong> {{ member.profile.bluesky }}</a></small><br>
 				{% endif %}
 				{% if member.profile.kofi %}
 				<small class="test-muted domain"><a href="{{ member.profile.kofiurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-mug-saucer"></i>&nbsp;&nbsp; <strong>Carrd:</strong> {{ member.profile.kofi }}</a></small><br>
