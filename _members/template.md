@@ -12,7 +12,7 @@ description: >
 
 profile: 
     align: right
-    profilepic: whittemore.jpg
+    image: whittemore.jpg
     spidersona1: whittemore.jpg
     spidersona1description: Sample description of Spidersona 1.
     spidersona2: whittemore.jpg
