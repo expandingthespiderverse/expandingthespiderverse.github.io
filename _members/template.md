@@ -31,7 +31,7 @@ profile:
     kofiurl: kofiurl.com
     carrd: caard
     carrdurl: caardurl.com
-    linkedin: linkedin
+    linkedinurl: linkedin
     email: email
 
 ---
