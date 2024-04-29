@@ -4,7 +4,7 @@ inline: false
 
 name: Dayn Broder
 
-description: > 
+description: >
     Creator of Sun-Spider
 
 subtitle: >
