@@ -9,7 +9,7 @@ subtitle: "[Subtitle, i.e. Sun-Spider was featured in...]"
 profile: 
     align: right
     profilepic: whittemore.jpg
-    spidersonapic: "whittemore.jpg"
+    spidersonapic: whittemore.jpg
     website: 
     twitter: 
     instagram: 
