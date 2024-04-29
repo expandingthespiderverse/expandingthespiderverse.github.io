@@ -25,6 +25,7 @@ profile:
     tiktok: tiktok
     tumblr: tumblr
     youtube: youtube
+    youtubeurl: youtube.com/url
     bluesky: bluesky
     kofi: kofi
     caard: caard
