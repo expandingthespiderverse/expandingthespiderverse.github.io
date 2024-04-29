@@ -28,7 +28,9 @@ profile:
     youtubeurl: youtube.com/url
     bluesky: bluesky
     kofi: kofi
-    caard: caard
+    kofiurl: kofiurl.com
+    carrd: caard
+    carrdurl: caardurl.com
     linkedin: linkedin
     email: email
 
