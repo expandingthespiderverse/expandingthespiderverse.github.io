@@ -4,11 +4,11 @@ inline: false
 
 name: [Name]
 
-description: >
-    "[Description, i.e. Creator of Sun-Spider]"
-
 subtitle: >
-    "[Subtitle, i.e. Sun-Spider was featured in...]"
+    "[Subtitle, i.e. Creator of Sun-Spider]"
+
+description: >
+    "[Description, i.e. Sun-Spider was featured in...]"
 
 profile: 
     align: right
