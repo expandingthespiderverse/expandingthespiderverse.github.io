@@ -1,4 +1,4 @@
-![image](https://github.com/expandingthespiderverse/expandingthespiderverse.github.io/assets/113584473/7b747525-b811-4c0c-8f4f-51e0d8faa45d)---
+---
 layout: page
 permalink: /testing/
 title: Testing
