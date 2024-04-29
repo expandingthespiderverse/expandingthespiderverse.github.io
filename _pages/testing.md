@@ -55,7 +55,7 @@ nav_rank: 8
 				<small class="test-muted domain"><a href="{{ member.profile.bluesky }}.bsky.social" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-brands fa-bluesky"></i>&nbsp;&nbsp; <strong>Bluesky:</strong> {{ member.profile.bluesky }}</a></small><br>
 				{% endif %}
 				{% if member.profile.kofi %}
-				<small class="test-muted domain"><a href="{{ member.profile.kofiurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-mug-saucer"></i>&nbsp;&nbsp; <strong>Ko-fi:</strong> {{ member.profile.kofi }}</a></small><br>
+				<small class="test-muted domain"><a href="{{ member.profile.kofiurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-mug-saucer"></i>&nbsp;&nbsp; <strong>Carrd:</strong> {{ member.profile.kofi }}</a></small><br>
 				{% endif %}
 				{% if member.profile.carrd %}
 				<small class="test-muted domain"><a href="{{ member.profile.carrdurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-address-card"></i>&nbsp;&nbsp; <strong>Ko-fi:</strong> {{ member.profile.carrd }}</a></small><br>
