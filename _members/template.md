@@ -1,15 +1,12 @@
 ---
 layout: about
 inline: false
-group: [Spidersona Artist / Spider-Verse Associate Editor / Interviewer]
-group_rank: 1
 
 name: [Name]
 description: "[Description, i.e. Creator of Sun-Spider]"
+subtitle: "[Subtitle, i.e. Sun-Spider was featured in...]"
 
 profile: 
-    spidersona: [Spidersona name]
-    spiderverse: [Issue #]
     align: right
     profilepic: whittemore.jpg
     spidersonapic: "whittemore.jpg"
