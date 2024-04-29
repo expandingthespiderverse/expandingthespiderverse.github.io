@@ -4,10 +4,10 @@ inline: false
 
 name: Dayn Broder
 
-description: >
+subtitle: >
     Creator of Sun-Spider
 
-subtitle: >
+description: >
     Broder's Spidersona, Charlotte "Charlie" Webber or Sun-Spider, first appeared as a featured Spidersona in Issue #3 of Spider-Verse (2019-2020).
 
 profile: 
