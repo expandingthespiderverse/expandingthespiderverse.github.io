@@ -70,15 +70,15 @@ nav_rank: 8
 			<hr class="solid">
                     <!-- Additional images and captions -->
                     <div class="row mt-3">
-                        <div class="col-md-4.5">
+                        <div class="col-md-4">
                             <img src="{{ '/assets/img/' | append: member.profile.spidersona1 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
                             <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona1description }}</small></p>
                         </div>
-                        <div class="col-md-4.5">
+                        <div class="col-md-4">
                             <img src="{{ '/assets/img/' | append: member.profile.spidersona2 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
                             <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona2description }}</small></p>
                         </div>
-                        <div class="col-md-4.5">
+                        <div class="col-md-4">
                             <img src="{{ '/assets/img/' | append: member.profile.spidersona3 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
                             <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona3description }}</small></p>
                         </div>
