@@ -8,7 +8,7 @@ description: >
     Creator of Spider-Rogue and Sea-Spider
 
 subtitle: >
-    Sea-Spider was featured in Issue #2 of Spider-Verse (2019-2020).
+    Sea-Spider was one of the three Spidersonas featured in Issue #2 of Spider-Verse (2019-2020).
 
 profile: 
     align: right
