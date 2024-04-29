@@ -12,7 +12,7 @@ description: >
 
 profile: 
     align: right
-    profilepic: whittemore.jpg
+    image: whittemore.jpg
     spidersonapic: whittemore.jpg
     website: 
     twitter: mrjamesgifford
