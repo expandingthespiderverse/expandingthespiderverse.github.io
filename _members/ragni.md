@@ -4,10 +4,10 @@ inline: false
 
 name: Alyssa Ragni
 
-description: >
+subtitle: >
     Creator of Garden-Spider
 
-subtitle: >
+description: >
     Garden-Spider was one of the three Spidersonas featured in Issue #3 of Spider-Verse (2019-2020).
 
 profile: 
