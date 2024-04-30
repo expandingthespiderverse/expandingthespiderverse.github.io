@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Alyssa Ragni
 inline: false
 
 name: Alyssa Ragni
-title: Alyssa Ragni
 
 subtitle: >
     Creator of Garden-Spider
