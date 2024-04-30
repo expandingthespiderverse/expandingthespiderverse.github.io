@@ -18,7 +18,7 @@ profile:
     spidersona1description: Initial digital art version of Parasite
     spidersona2: Parasite2.png
     spidersona2description: Newer Parasite design
-    spidersona3: Parasite3.png
+    spidersona3: Parasite3.jpg
     spidersona3description: Parasite character sheet
     website:
     twitter: gojigochi
