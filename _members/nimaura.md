@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Nimaura Drakestone
 inline: false
 
 name: Nimaura Drakestone
-title: Nimaura Drakestone
 
 subtitle: >
     Creator of Pastel Spider
