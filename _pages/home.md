@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 ## Welcome to
 <img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse" width="100%">
 
-<strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020) that has resulted in:
+<strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with over thirty Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020) that has resulted in:
 
 <div class="card">
   <div class="card-body">
@@ -33,51 +33,26 @@ social: false  # includes social icons at the bottom of the page
 <p class="card-text">This free-to-watch YouTube documentary, called "Expanding the Spider-Verse with Spidersonas, includes an overview of the Spidersona phenomeon and the creativity that is integrated into every single Spidersona design. It will be available to watch summer 2024.</p>
     </h4>
   </div>
-</div><br>
+</div>
 <div class="card hoverable">
   <div class="card-body">
     <h4 class="card-title">An Academic Book Chapter
 <p class="card-text">This book chapter, titled "Expanding the Spider-Verse: Infinite Possibility and Fan Plausibility," is forthcoming in Paul Booth's edited collection <i>Entering the Multiverse</i>.</p>
     </h4>
   </div>
-</div>
+</div><br>
 
-
-documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
+Both resulting projects from this research were created as part of Lore Whittemore's Media and Public Engagement Master's Thesis. 
 
 <br><br>
 <center><h2>
 LEARN MORE
 </h2><br>
 <sl-button-group label="Alignment">
-  <sl-button href="https://da4all.github.io/about/">About the Project and Curriculum</sl-button>
-  <sl-button href="https://da4all.github.io/team/">About the Team Behind the Project</sl-button>
+  <sl-button href="https://expandingthespiderverse.github.io/">Watch the Documentary (Coming Soon)</sl-button>
+  <sl-button href="https://expandingthespiderverse.github.io/">Learn About Entering the Multiverse (Coming Soon)</sl-button>
+  <sl-button href="https://expandingthespiderverse.github.io/participants/">About the Participating Artists & Interviewees</sl-button>
 </sl-button-group>
 </center>
 
-<br>
-
-# What is Data Advocacy?
-<br>
-## Definition
-<br>
-“Data advocacy is an integrative practice of analysis, design, and communication in which insights from a dataset are effectively conveyed to raise public awareness and drive social change.” <small>(Laurie Gries, “A Rhetorical Data Studies Approach to Data Storytelling and Advocacy”)</small>
-<br><br>
-## Perspective
-<br>
-Data Advocacy for All teaches data advocacy through two main approaches:<br>
-
-<br>
-
-# Curriculum
-
-<br>
-
-<center>
-<sl-button-group label="Alignment">
-  <sl-button href="https://da4all.github.io/getting-started/">Getting Started</sl-button>
-  <sl-button href="https://da4all.github.io/modules-comingsoon/">Explore the Curricular Modules</sl-button>
-</sl-button-group></center>
-
-<br>
 <br>
