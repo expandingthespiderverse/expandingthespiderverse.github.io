@@ -1,6 +1,5 @@
 ---
 layout: about
-title: [Name]
 inline: false
 
 name: [Name]
