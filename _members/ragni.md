@@ -3,6 +3,7 @@ layout: about
 inline: false
 
 name: Alyssa Ragni
+title: Alyssa Ragni
 
 subtitle: >
     Creator of Garden-Spider
@@ -13,7 +14,12 @@ description: >
 profile: 
     align: right
     image: Alyssa.jpg
-    spidersonapic: whittemore.jpg
+    spidersona1:
+    spidersona1description:
+    spidersona2:
+    spidersona2description:
+    spidersona3:
+    spidersona3description:
     website: 
     twitter: alyssa_ragni
     instagram: alyssar_art
