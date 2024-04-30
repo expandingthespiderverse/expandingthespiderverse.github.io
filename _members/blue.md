@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Blue
 inline: false
 
 name: Blue
-title: Blue
 
 subtitle: >
     Creator of Fool-Spider
