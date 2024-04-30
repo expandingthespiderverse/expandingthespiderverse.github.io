@@ -12,7 +12,7 @@ description: >
 
 profile: 
     align: right
-    image: whittemore.jpg
+    image: alyssa.jpg
     spidersonapic: whittemore.jpg
     website: 
     twitter: alyssa_ragni
