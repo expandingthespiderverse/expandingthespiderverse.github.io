@@ -3,6 +3,7 @@ layout: about
 inline: false
 
 name: James Gifford
+title: James Gifford
 
 subtitle: >
     Creator of Spider-Rogue and Sea-Spider
@@ -13,7 +14,12 @@ description: >
 profile: 
     align: right
     image: James.jpg
-    spidersonapic: whittemore.jpg
+    spidersona1:
+    spidersona1description:
+    spidersona2:
+    spidersona2description:
+    spidersona3:
+    spidersona3description:
     website: 
     twitter: mrjamesgifford
     instagram: mrjamesgifford
