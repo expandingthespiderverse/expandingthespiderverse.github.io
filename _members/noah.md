@@ -13,7 +13,7 @@ subtitle: >
 
 profile: 
     align: right
-    image: 
+    image: Noah.jpg
     spidersona1:
     spidersona1description:
     spidersona2:
