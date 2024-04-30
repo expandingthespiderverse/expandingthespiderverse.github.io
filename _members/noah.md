@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Noah Molinaro (gojigochi)
 inline: false
 
 name: Noah Molinaro (gojigochi)
-title: Noah Molinaro (gojigochi)
 
 subtitle: >
     Creator of Parasite
