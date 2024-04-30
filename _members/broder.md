@@ -3,6 +3,7 @@ layout: about
 inline: false
 
 name: Dayn Broder
+title: Dayn Broder
 
 subtitle: >
     Creator of Sun-Spider
