@@ -1,5 +1,6 @@
 ---
 layout: about
+title: Abraham Lopez
 inline: false
 
 name: Abraham Lopez
