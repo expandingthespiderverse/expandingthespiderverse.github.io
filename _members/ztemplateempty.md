@@ -1,9 +1,9 @@
 ---
 layout: about
+title: [Name]
 inline: false
 
 name: [Name]
-title: [Name]
 
 subtitle: >
     "[Subtitle, i.e. Creator of Sun-Spider]"
