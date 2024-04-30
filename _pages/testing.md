@@ -7,6 +7,68 @@ nav: false
 nav_rank: 8
 ---
 
+## Testing 29
+
+{% assign members = site.members | sort: "profile.name" %}
+
+{% for member in members %}
+<p>
+    <div class="card {% if member.inline == false %}hoverable{% endif %}">
+        <div class="row no-gutters">
+            <!-- Left column for profile picture -->
+            <div class="col-sm-5 col-md-5">
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+            </div>
+            <!-- Right column for member info -->
+            <div class="col-sm-7 col-md-7">
+                <div class="card-body">
+                    {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
+                    <h2 class="card-title mb-4">{{ member.name }}</h2>
+                    {% if member.subtitle %}<h5 class="card-subtitle mb-3 text-muted">{{ member.subtitle }}</h5>{% endif %}
+                    {% if member.description %}
+                        <p class="card-text">{{ member.description }}</p>
+                    {% endif %}
+                    {% if member.inline == false %}</a>{% endif %}
+                    <p class="card-text">
+                        {% if member.profile.website %}
+                            <small class="test-muted domain"><a href="{{ member.profile.website }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fas fa-globe"></i>&nbsp;&nbsp; <strong>Website:</strong> {{ member.profile.website }}</a></small><br>
+                        {% endif %}
+                        {% if member.profile.twitter %}
+                            <small class="test-muted domain"><a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fab fa-twitter"></i>&nbsp;&nbsp; <strong>Twitter:</strong> {{ member.profile.twitter }}</a></small><br>
+                        {% endif %}
+                        <!-- Additional links -->
+                    </p>
+                    <hr class="solid">
+                    <!-- Additional images and captions -->
+                    <div class="row mt-3">
+                        {% if member.profile.spidersona1 %}
+                            <div class="col-md-4">
+                                <img src="{{ '/assets/img/' | append: member.profile.spidersona1 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
+                                <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona1description }}</small></p>
+                            </div>
+                        {% endif %}
+                        {% if member.profile.spidersona2 %}
+                            <div class="col-md-4">
+                                <img src="{{ '/assets/img/' | append: member.profile.spidersona2 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
+                                <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona2description }}</small></p>
+                            </div>
+                        {% endif %}
+                        {% if member.profile.spidersona3 %}
+                            <div class="col-md-4">
+                                <img src="{{ '/assets/img/' | append: member.profile.spidersona3 | relative_url }}" class="img-fluid mb-3" alt="{{ member.profile.name }}" />
+                                <p class="card-subtitle text-muted" style="line-height: 1;"><small>{{ member.profile.spidersona3description }}</small></p>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</p>
+{% endfor %}
+
+<br><br>
+
 ## Testing 28
 
 {% assign members = site.members | sort: "profile.name" %}
