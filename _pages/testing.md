@@ -22,6 +22,9 @@ nav_rank: 8
     {% if member.profile.spidersona3 %}
         {% assign image_count = image_count | plus: 1 %}
     {% endif %}
+    {% comment %}
+    Calculate the column width based on the number of images present
+    {% endcomment %}
     {% assign col_width = 12 | divided_by: image_count %}
     <p>
         <div class="card {% if member.inline == false %}hoverable{% endif %}">
@@ -77,6 +80,7 @@ nav_rank: 8
         </div>
     </p>
 {% endfor %}
+
 
 <br><br>
 
