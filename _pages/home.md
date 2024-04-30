@@ -2,18 +2,18 @@
 layout: about
 title: Home
 permalink: /
-subtitle: An open access modular curriculum for teaching data advocacy in higher educational settings.
+subtitle: A website dedicated to the Expanding the Spider-Verse research project and documentary, as well as all of the thoughtful, talented artists who contributed to the project.
 
 profile:
   align: right
-  image: DA4ALogo.png
+  image: ExpandingTheSpiderVerse.png
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
     <p></p>
     <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -22,11 +22,8 @@ social: false  # includes social icons at the bottom of the page
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
 
-Data Advocacy for All is an eight-module curriculum that leverages minimal computing and open-source tools to enhance student abilities to inquire with data, communicate with data, and deploy data for social advocacy.
+<strong>Expanding the Spider-Verse</strong> is a research project that has resulted in a documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
 
-Data Advocacy for All has been designed for students across the disciplines with no prior data science or computing experience. This college-level curriculum includes pedagogical modules, ready-made data sets, tutorials, links to open-source tools, and flexible curricular resources. 
-
-Data Advocacy for All is a <a href="https://www.cu.edu/oaa/academic-innovation-programs/cu-next-award">CU Next Award Grant project<a/> that has been realized by a team of digital rhetoric and digital humanities faculty at CU Boulder and Denver in concert with CU Boulder’s Center for Research Data and Digital Scholarship (CRDDS). 
 <br><br>
 <center><h2>
 LEARN MORE
