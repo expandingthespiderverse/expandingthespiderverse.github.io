@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Expanding the Spider-Verse
+title: Home
 permalink: /
 subtitle: A website dedicated to the Expanding the Spider-Verse research project and documentary, as well as all of the thoughtful, talented artists who contributed to the project.
 
@@ -22,7 +22,8 @@ social: false  # includes social icons at the bottom of the page
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
 
-<img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse">
+Welcome to...
+<img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse" width="100%">
 
 <strong>Expanding the Spider-Verse</strong> is a research project that has resulted in a documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
 
