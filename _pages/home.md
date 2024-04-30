@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Expanding the Spider-Verse
 permalink: /
 subtitle: A website dedicated to the Expanding the Spider-Verse research project and documentary, as well as all of the thoughtful, talented artists who contributed to the project.
 
