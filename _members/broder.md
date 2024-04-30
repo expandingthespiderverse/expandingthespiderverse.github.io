@@ -16,7 +16,7 @@ profile:
     spidersona1: SunSpider2.jpeg
     spidersona1description: Broder's initial drawing of Sun-Spider.
     spidersona2: SunSpider1.jpg
-    spidersona2description: Broder's revised design of Sun-Spider, which was published in Issue #3.
+    spidersona2description: Broder's revised design of Sun-Spider, published in Issue #3.
     spidersona3: 
     spidersona3description: 
     website: https://www.daynbroder.com/
