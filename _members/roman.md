@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Roman
 inline: false
 
 name: Roman
-title: Roman
 
 subtitle: >
     Creator of Disco-Spider and Inca-Spider
