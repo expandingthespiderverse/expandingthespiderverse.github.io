@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
 
-<div style="max-width: 1280px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="Expanding the Spider-Verse title" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse">
 
 <strong>Expanding the Spider-Verse</strong> is a research project that has resulted in a documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
 
