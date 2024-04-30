@@ -14,12 +14,12 @@ description: >
 profile: 
     align: right
     image: Abraham.jpg
-    spidersona1:
-    spidersona1description:
-    spidersona2:
-    spidersona2description:
-    spidersona3:
-    spidersona3description:
+    spidersona1: Hallow1.jpg
+    spidersona1description: Initial sketch for Hallow
+    spidersona2: Hallow2.jpg
+    spidersona2description: First iteration of Hallow shared on social media
+    spidersona3: Hallow3.jpg
+    spidersona3description: Version of Hallow published in Spider-Verse
     website:
     twitter: artistabe
     instagram: artistabe
