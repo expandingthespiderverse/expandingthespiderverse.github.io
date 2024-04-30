@@ -21,7 +21,7 @@ profile:
     spidersona3:
     spidersona3description:
     website:
-    twitter:
+    twitter: lilcan_ok
     instagram:
     tiktok:
     tumblr:
