@@ -25,7 +25,10 @@ nav_rank: 8
     {% comment %}
     Calculate the column width based on the number of images present
     {% endcomment %}
-    {% assign col_width = 12 | divided_by: image_count %}
+    {% assign col_width = 12 %}
+    {% if image_count != 0 %}
+        {% assign col_width = 12 | divided_by: image_count %}
+    {% endif %}
     <p>
         <div class="card {% if member.inline == false %}hoverable{% endif %}">
             <div class="row no-gutters">
@@ -80,7 +83,6 @@ nav_rank: 8
         </div>
     </p>
 {% endfor %}
-
 
 <br><br>
 
