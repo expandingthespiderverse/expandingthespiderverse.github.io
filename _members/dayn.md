@@ -1,6 +1,6 @@
 ---
-title: "Dayn Broder"
 layout: about
+title: Dayn Broder
 inline: false
 
 name: Dayn Broder
