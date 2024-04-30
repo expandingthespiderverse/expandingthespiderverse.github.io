@@ -13,7 +13,7 @@ description: >
 
 profile: 
     align: right
-    image: 
+    image: Rachael.jpg
     spidersona1:
     spidersona1description:
     spidersona2:
