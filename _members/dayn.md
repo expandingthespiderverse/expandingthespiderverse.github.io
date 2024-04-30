@@ -1,5 +1,5 @@
 ---
-title: Dayn Broder
+title: "Dayn Broder"
 layout: about
 inline: false
 
