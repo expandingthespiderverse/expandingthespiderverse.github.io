@@ -34,6 +34,7 @@ social: false  # includes social icons at the bottom of the page
     </h4>
   </div>
 </div>
+<br>
 <div class="card hoverable">
   <div class="card-body">
     <h4 class="card-title">An Academic Book Chapter
@@ -46,7 +47,7 @@ Both resulting projects from this research were created as part of Lore Whittemo
 
 <br><br>
 <center><h2>
-LEARN MORE
+Where to?
 </h2><br>
 <sl-button-group label="Alignment">
   <sl-button href="https://expandingthespiderverse.github.io/">Watch the Documentary (Coming Soon)</sl-button>
