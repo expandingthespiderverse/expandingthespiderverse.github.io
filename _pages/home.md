@@ -22,10 +22,28 @@ social: false  # includes social icons at the bottom of the page
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
 
-Welcome to...
+## Welcome to
 <img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse" width="100%">
 
-<strong>Expanding the Spider-Verse</strong> is a research project that has resulted in a documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
+<strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020) that has resulted in:
+
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title">A Documentary
+<p class="card-text">This free-to-watch YouTube documentary, called "Expanding the Spider-Verse with Spidersonas, includes an overview of the Spidersona phenomeon and the creativity that is integrated into every single Spidersona design. It will be available to watch summer 2024.</p>
+    </h4>
+  </div>
+</div><br>
+<div class="card hoverable">
+  <div class="card-body">
+    <h4 class="card-title">An Academic Book Chapter
+<p class="card-text">This book chapter, titled "Expanding the Spider-Verse: Infinite Possibility and Fan Plausibility," is forthcoming in Paul Booth's edited collection <i>Entering the Multiverse</i>.</p>
+    </h4>
+  </div>
+</div>
+
+
+documentary, Expanding the Spider-Verse with Spidersonas, and academic book chapter, entitled Expanding the Spider-Verse: Infinite Possibility and Fan Probability. 
 
 <br><br>
 <center><h2>
@@ -48,21 +66,6 @@ LEARN MORE
 ## Perspective
 <br>
 Data Advocacy for All teaches data advocacy through two main approaches:<br>
-
-<div class="card">
-  <div class="card-body">
-    <h4 class="card-title">Data Feminism
-<p class="card-text">Data feminism interrogates how data both propagates and resists sexism, racism, and other intersecting forces of oppression in order to create “more just, equitable, and livable futures” (D’Ignazio and Klein, 2020, n.p.).</p>
-    </h4>
-  </div>
-</div><br>
-<div class="card hoverable">
-  <div class="card-body">
-    <h4 class="card-title">Rhetorical Data Studies
-<p class="card-text">Rhetorical data studies (Gries, forthcoming) investigates the links between data, communication, and power in order to better understand how data-driven stories and arguments generate knowledge, garner public attention, and, among other actions, mediate socio-cultural change.</p>
-    </h4>
-  </div>
-</div>
 
 <br>
 
