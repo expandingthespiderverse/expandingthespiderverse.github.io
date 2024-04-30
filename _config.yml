@@ -16,7 +16,7 @@ keywords: spider-man, spider-verse, documentary  # add your own keywords or leav
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: https://da4asandbox.github.io/curricularsite/assets/img/DA4ALogo.png
-icon: 
+icon: https://expandingthespiderverse.github.io/assets/img/Icon.png
 
 url: "https://expandingthespiderverse.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -414,7 +414,7 @@ medium_zoom:
 
 jekyll_get_json:
   - data: resume
-    json: "https://da4asandbox.github.io/curricularsite/assets/json/resume.json"
+    json: ""
 jsonresume:
   - basics
   - work
