@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /participants/
-title: Participants
+title: Participants 
 description: 
 nav: true
 nav_rank: 8
