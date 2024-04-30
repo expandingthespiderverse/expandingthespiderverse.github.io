@@ -12,7 +12,7 @@ description: >
 
 profile: 
     align: right
-    image: whittemore.jpg
+    image: dayn.jpg
     spidersonapic: whittemore.jpg
     website: https://www.daynbroder.com/
     twitter: dayn_does_comix
