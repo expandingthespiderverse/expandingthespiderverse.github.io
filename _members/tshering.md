@@ -13,7 +13,7 @@ subtitle: >
 
 profile: 
     align: right
-    image: Tshering.jpg
+    image: Cami.jpg
     spidersona1:
     spidersona1description:
     spidersona2:
