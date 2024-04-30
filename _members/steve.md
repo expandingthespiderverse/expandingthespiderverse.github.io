@@ -1,9 +1,9 @@
 ---
 layout: about
+title: Steve Poole
 inline: false
 
 name: Steve Poole
-title: Steve Poole
 
 subtitle: >
     Creator of Spider-Ramen
