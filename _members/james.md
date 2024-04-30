@@ -1,9 +1,9 @@
 ---
 layout: about
+title: James Gifford
 inline: false
 
 name: James Gifford
-title: James Gifford
 
 subtitle: >
     Creator of Spider-Rogue and Sea-Spider
