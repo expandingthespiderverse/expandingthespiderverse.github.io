@@ -13,7 +13,7 @@ subtitle: >
 
 profile: 
     align: right
-    image: Tate.md
+    image: Tate.jpg
     spidersona1:
     spidersona1description:
     spidersona2:
