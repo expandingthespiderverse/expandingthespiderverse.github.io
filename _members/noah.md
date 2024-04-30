@@ -14,12 +14,12 @@ subtitle: >
 profile: 
     align: right
     image: Noah.jpg
-    spidersona1:
-    spidersona1description:
-    spidersona2:
-    spidersona2description:
-    spidersona3:
-    spidersona3description:
+    spidersona1: Parasite1.png
+    spidersona1description: Initial digital art version of Parasite
+    spidersona2: Parasite2.png
+    spidersona2description: Newer Parasite design
+    spidersona3: Parasite3.png
+    spidersona3description: Parasite character sheet
     website:
     twitter: gojigochi
     instagram: gojigochi
