@@ -14,12 +14,12 @@ subtitle: >
 profile: 
     align: right
     image: Mav.jpg
-    spidersona1:
-    spidersona1description:
-    spidersona2:
-    spidersona2description:
-    spidersona3:
-    spidersona3description:
+    spidersona1: Mav1.png
+    spidersona1description: First drawing of Spider-Martian
+    spidersona2: Mav2.png
+    spidersona2description: Filipino Doc Ock concept art
+    spidersona3: Mav3.png
+    spidersona3description: Pogo Spidersona
     website:
     twitter: kutsante
     instagram: kutsante
