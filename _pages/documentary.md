@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /documentary/
-title: Expanding the Spider-Verse Documentary 
-description: Watch the "Expanding the Spider-Verse" documentary.
+title: Documentary 
+description: Watch the "Expanding the Spider-Verse" documentary:
 nav: true
 nav_rank: 7
 ---
