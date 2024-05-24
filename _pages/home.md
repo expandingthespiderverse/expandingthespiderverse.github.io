@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to
+title: Home
 permalink: /
 subtitle: A website dedicated to the Expanding the Spider-Verse research project and documentary, as well as all of the thoughtful, talented artists who contributed to the project.
 
@@ -22,6 +22,7 @@ social: false  # includes social icons at the bottom of the page
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/themes/light.css" />
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.5.2/cdn/shoelace.js" ></script>
 
+## Welcome to...
 <img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse" width="100%">
 
 <strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with over thirty Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020), that has resulted in:
