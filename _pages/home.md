@@ -30,6 +30,11 @@ social: false  # includes social icons at the bottom of the page
   <div class="card-body">
     <h4 class="card-title">A Documentary
 <p class="card-text">This free-to-watch YouTube documentary, called "Expanding the Spider-Verse with Spidersonas, includes an overview of the Spidersona phenomeon and the creativity that is integrated into every single Spidersona design. It will be available to watch summer 2024.</p>
+      <center>
+        <sl-button-group label="Alignment">
+          <sl-button href="https://expandingthespiderverse.github.io/documentary">Watch the Documentary</sl-button>
+        </sl-button-group>
+      </center>
     </h4>
   </div>
 </div>
@@ -49,7 +54,7 @@ Both resulting projects from this research were created as part of Lore Whittemo
 Where to?
 </h2><br>
 <sl-button-group label="Alignment">
-  <sl-button href="https://expandingthespiderverse.github.io/">Watch the Documentary</sl-button>
+  <sl-button href="https://expandingthespiderverse.github.io/documentary">Watch the Documentary</sl-button>
   <sl-button href="https://expandingthespiderverse.github.io/">Learn About Entering the Multiverse (Coming Soon)</sl-button>
   <sl-button href="https://expandingthespiderverse.github.io/participants/">About the Participating Artists & Interviewees</sl-button>
 </sl-button-group>
