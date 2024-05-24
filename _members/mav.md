@@ -17,9 +17,9 @@ profile:
     spidersona1: Mav1.png
     spidersona1description: First drawing of Spider-Martian
     spidersona2: Mav2.png
-    spidersona2description: Filipino Doc Ock concept art
+    spidersona2description: Pogo Spidersona
     spidersona3: Mav3.png
-    spidersona3description: Pogo Spidersona
+    spidersona3description: Filipino Doc Ock concept art
     website:
     twitter: kutsante
     instagram: kutsante
