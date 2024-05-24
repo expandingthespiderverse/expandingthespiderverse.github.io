@@ -50,7 +50,7 @@ Both resulting projects from this research were created as part of Lore Whittemo
 Where to?
 </h2><br>
 <sl-button-group label="Alignment">
-  <sl-button href="https://expandingthespiderverse.github.io/">Watch the Documentary (Coming Soon)</sl-button>
+  <sl-button href="https://expandingthespiderverse.github.io/">Watch the Documentary</sl-button>
   <sl-button href="https://expandingthespiderverse.github.io/">Learn About Entering the Multiverse (Coming Soon)</sl-button>
   <sl-button href="https://expandingthespiderverse.github.io/participants/">About the Participating Artists & Interviewees</sl-button>
 </sl-button-group>
