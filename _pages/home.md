@@ -30,12 +30,12 @@ social: false  # includes social icons at the bottom of the page
 <div class="card">
   <div class="card-body">
     <h4 class="card-title">A Documentary
-<p class="card-text">This free-to-watch YouTube documentary, called "Expanding the Spider-Verse with Spidersonas, includes an overview of the Spidersona phenomeon and the creativity that is integrated into every single Spidersona design. It will be available to watch summer 2024.</p>
-      <center>
+<p class="card-text">This fifty-five-minute, free-to-watch YouTube documentary, called "Expanding the Spider-Verse with Spidersonas," includes an overview of the Spidersona phenomeon and the creativity that is integrated into every single Spidersona design.
+      <left>
         <sl-button-group label="Alignment">
-          <sl-button href="https://expandingthespiderverse.github.io/documentary">Watch the Documentary</sl-button>
+          <sl-button href="https://expandingthespiderverse.github.io/documentary">Watch the Full Documentary</sl-button>
         </sl-button-group>
-      </center>
+      </left>
     </h4>
   </div>
 </div>
