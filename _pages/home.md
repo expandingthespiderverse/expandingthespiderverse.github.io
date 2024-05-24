@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 <img src="https://expandingthespiderverse.github.io/assets/img/ExpandingTheSpiderVerse.png" alt="ExpandingTheSpiderVerse" width="100%">
 
-<strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with over thirty Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020) that has resulted in:
+<strong>Expanding the Spider-Verse</strong> is a research project that grew out of the contributions and insights from interviews with over thirty Spidersona artists and Kathleen Wisneski, previously an Associate Editor at Marvel Comics for <i>Spider-Verse</i> (2019-2020), that has resulted in:
 
 <div class="card">
   <div class="card-body">
