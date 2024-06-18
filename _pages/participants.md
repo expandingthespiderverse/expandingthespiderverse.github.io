@@ -47,7 +47,7 @@ nav_rank: 8
 				<small class="test-muted domain"><a href="https://{{ member.profile.tumblr }}.tumblr.com" class="card-link" target="_blank" style="color: #7D858C;"><i class="fab fa-tumblr"></i>&nbsp;&nbsp; <strong>Tumblr:</strong> {{ member.profile.tumblr }}</a></small><br>
 				{% endif %}
 				{% if member.profile.youtube %}
-				<small class="test-muted domain"><a href="{{ member.profile.youtubeurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fab fa-youtube"></i>&nbsp;&nbsp; <strong>YouTube:</strong> {{ member.profile.tiktok }}</a></small><br>
+				<small class="test-muted domain"><a href="{{ member.profile.youtubeurl }}" class="card-link" target="_blank" style="color: #7D858C;"><i class="fab fa-youtube"></i>&nbsp;&nbsp; <strong>YouTube:</strong> {{ member.profile.youtubeurl }}</a></small><br>
 				{% endif %}
 				{% if member.profile.bluesky %}
 				<small class="test-muted domain"><a href="{{ member.profile.bluesky }}.bsky.social" class="card-link" target="_blank" style="color: #7D858C;"><i class="fa-solid fa-cloud"></i>&nbsp;&nbsp; <strong>Bluesky:</strong> {{ member.profile.bluesky }}</a></small><br>
