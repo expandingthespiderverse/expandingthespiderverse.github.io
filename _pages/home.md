@@ -53,7 +53,7 @@ social: false  # includes social icons at the bottom of the page
   </div>
 </div><br>
 
-Both resulting projects from this research were created as part of Lore Whittemore's Media and Public Engagement Master's Thesis. 
+Both resulting projects from this research were created as part of Lore Whittemore's Media and Public Engagement Master's Thesis.
 
 <br><br>
 <center><h2>
