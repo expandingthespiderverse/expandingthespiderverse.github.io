@@ -21,7 +21,7 @@ nav_rank: 8
             <div class="col-sm-7 col-md-7">
                 <div class="card-body">
                     {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
-                    <h2 class="card-title mb-4" id="{{ member.name }}">{{ member.name }}</h2>
+                    <h2 class="card-title mb-4">{{ member.name }}</h2>
                     {% if member.subtitle %}<h5 class="card-subtitle mb-3 text-muted">{{ member.subtitle }}</h5>{% endif %}
                     {% if member.description %}
                         <p class="card-text">{{ member.description }}</p>
