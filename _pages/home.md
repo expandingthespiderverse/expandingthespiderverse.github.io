@@ -43,7 +43,12 @@ social: false  # includes social icons at the bottom of the page
 <div class="card hoverable">
   <div class="card-body">
     <h4 class="card-title">An Academic Book Chapter
-<p class="card-text">This book chapter, titled "Expanding the Spider-Verse: Infinite Possibility and Fan Plausibility," is forthcoming in Paul Booth's edited collection <i>Entering the Multiverse</i>.</p>
+<p class="card-text">This book chapter, titled "Expanding the Spider-Verse: Infinite Possibility and Fan Plausibility," is published in Paul Booth's edited collection <i>Entering the Multiverse</i>.</p>
+      <left>
+        <sl-button-group label="Alignment">
+          <sl-button href="https://www.taylorfrancis.com/books/edit/10.4324/9781003480846/entering-multiverse-paul-booth">Learn More About the Book</sl-button>
+        </sl-button-group>
+      </left>
     </h4>
   </div>
 </div><br>
