@@ -61,7 +61,7 @@ Where to?
 </h2><br>
 <sl-button-group label="Alignment">
   <sl-button href="https://expandingthespiderverse.github.io/documentary">Watch the Documentary</sl-button>
-  <sl-button href="https://expandingthespiderverse.github.io/">Learn About Entering the Multiverse (Coming Soon)</sl-button>
+  <sl-button href="https://www.taylorfrancis.com/books/edit/10.4324/9781003480846/entering-multiverse-paul-booth">Learn About <i>Entering the Multiverse</i></sl-button>
   <sl-button href="https://expandingthespiderverse.github.io/participants/">About the Participating Artists & Interviewees</sl-button>
 </sl-button-group>
 </center>
