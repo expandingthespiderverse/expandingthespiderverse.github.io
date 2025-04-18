@@ -3,7 +3,7 @@ layout: about
 title: Noah Molinaro (gojigochi)
 inline: false
 
-name: Noah Molinaro (gojigochi) <id="noah">
+name: Noah Molinaro (gojigochi)
 
 subtitle: >
     Creator of Parasite
