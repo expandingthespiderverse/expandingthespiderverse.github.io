@@ -5,6 +5,8 @@ inline: false
 
 name: Noah Molinaro (gojigochi)
 
+id: noah
+
 subtitle: >
     Creator of Parasite
 
