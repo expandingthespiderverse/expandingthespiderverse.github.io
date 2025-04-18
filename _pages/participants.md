@@ -11,7 +11,7 @@ nav_rank: 8
 
 {% for member in members %}
 <p>
-    <div class="card {% if member.inline == false %}hoverable{% endif %}">
+    <div class="card {% if member.inline == false %}hoverable{% endif %}" id="{{ member.profile.name }}">
         <div class="row no-gutters">
             <!-- Left column for profile picture -->
             <div class="col-sm-5 col-md-5">
